@@ -1,0 +1,58 @@
+{
+  "documents": [
+    {
+      "source_id": "openstax-introduction-to-philosophy",
+      "title": "Introduction to Philosophy",
+      "publisher": "OpenStax, Rice University",
+      "source_path_or_url": "https://openstax.org/details/books/introduction-philosophy",
+      "local_path": "starter/data/Introduction_to_Philosophy-WEB.pdf",
+      "how_to_obtain": "Tải bản PDF miễn phí ('Download a PDF') từ source_path_or_url, lưu đúng local_path. File không commit vào repo (48 MB, nằm trong .gitignore).",
+      "sha256": "ec94e28ddb86bfb6d7703a8487124501164caa79624791ad7eadb24efada96e5",
+      "file_size_bytes": 48068887,
+      "license_or_permission": "CC BY-NC-SA 4.0 (nội dung giáo trình, theo trang vật lý 4 của PDF)",
+      "attribution": "Access for free at openstax.org.",
+      "accessed_at": "2026-11-13",
+      "language": "en",
+      "total_pdf_pages": 421,
+      "included_page_count": 56,
+      "page_numbering": "Trang vật lý PDF, bắt đầu từ 1. Số trang in trong sách lệch so với trang PDF (ví dụ trang PDF 158 in số 148); metadata 'page' luôn dùng trang PDF.",
+      "selection_rule": "Chọn phần nội dung chính của chương 2 và chương 5. Loại bìa, mục lục, phần tóm tắt, thuật ngữ, tài liệu tham khảo và câu hỏi ôn tập.",
+      "character_count_method": "Trích văn bản bằng pypdf, chuẩn hóa Unicode NFC, gộp khoảng trắng liên tiếp thành một dấu cách rồi đếm ký tự.",
+      "total_character_count": 184081,
+      "sections": [
+        {
+          "chapter": "critical_thinking",
+          "title": "Critical Thinking, Research, Reading, and Writing",
+          "pdf_page_start": 51,
+          "pdf_page_end": 79,
+          "page_count": 29,
+          "character_count": 93071,
+          "page_character_counts": {
+            "51": 1592, "52": 2484, "53": 4188, "54": 3162, "55": 4379,
+            "56": 2504, "57": 3974, "58": 4165, "59": 3381, "60": 4746,
+            "61": 4163, "62": 3701, "63": 2953, "64": 3870, "65": 3162,
+            "66": 2807, "67": 4270, "68": 3251, "69": 2078, "70": 848,
+            "71": 4546, "72": 3082, "73": 2584, "74": 3851, "75": 3088,
+            "76": 3455, "77": 3217, "78": 2616, "79": 954
+          }
+        },
+        {
+          "chapter": "logic_and_reasoning",
+          "title": "Logic and Reasoning",
+          "pdf_page_start": 149,
+          "pdf_page_end": 175,
+          "page_count": 27,
+          "character_count": 91010,
+          "page_character_counts": {
+            "149": 1195, "150": 4712, "151": 3857, "152": 3067, "153": 2319,
+            "154": 3317, "155": 4710, "156": 3753, "157": 2967, "158": 3583,
+            "159": 3506, "160": 3530, "161": 2793, "162": 3290, "163": 2975,
+            "164": 4003, "165": 2519, "166": 3303, "167": 4493, "168": 2981,
+            "169": 3888, "170": 4715, "171": 3873, "172": 2885, "173": 3614,
+            "174": 3434, "175": 1728
+          }
+        }
+      ]
+    }
+  ]
+}

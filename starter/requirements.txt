@@ -1,4 +1,6 @@
-# Core setup and PDF parsing. Choose and install an embedding SDK separately.
+# Core setup and PDF parsing. Embeddings use a local Ollama server over HTTP
+# (stdlib urllib), so no extra SDK is needed: install Ollama, then
+# `ollama pull bge-m3`. Tested with pypdf 6.21.4, python-dotenv 1.2.4.
 psycopg[binary]==3.3.8
 pypdf>=5,<7
 python-dotenv>=1,<2

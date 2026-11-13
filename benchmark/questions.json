@@ -1,0 +1,191 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Trong một lập luận diễn dịch hợp lệ, điều gì phải đúng về kết luận nếu mọi tiền đề đều đúng?",
+    "expected_answer": "Kết luận bắt buộc phải đúng.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 161,
+    "evidence_quote": "The definition states that valid arguments have a form such that if the premises are true, then the conclusion must be true.",
+    "filter": {
+      "chapter": "logic_and_reasoning"
+    }
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Một người thường tìm và ghi nhớ những thông tin ủng hộ niềm tin sẵn có của mình. Đây là thiên kiến gì?",
+    "expected_answer": "Thiên kiến xác nhận (confirmation bias).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 59,
+    "evidence_quote": "One of the most common cognitive biases is confirmation bias, which is the tendency to search for, interpret, favor, and recall information that confirms or supports your prior beliefs."
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Siêu nhận thức là gì?",
+    "expected_answer": "Là suy nghĩ về chính quá trình suy nghĩ của mình.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 59,
+    "evidence_quote": "Metacognition means thinking about thinking"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Theo lối tắt nhận thức availability heuristic, người ta dựa vào những ví dụ nào để đánh giá thông tin mới?",
+    "expected_answer": "Các ví dụ gần đây nhất hoặc dễ nhớ lại nhất.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 62,
+    "evidence_quote": "The tendency to evaluate new information based on the most recent or most easily recalled examples"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Một quảng cáo cố tạo cảm giác rằng ai cũng đang mua sản phẩm mới để thuyết phục bạn mua theo. Quảng cáo đang dựa vào ngụy biện nào?",
+    "expected_answer": "Ngụy biện chạy theo số đông (bandwagon fallacy).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 63,
+    "evidence_quote": "Advertisers often rely on the bandwagon fallacy, attempting to create the impression that “everyone” is buying a new product, in order to inspire others to buy it."
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Tôi đang đọc chương Critical Thinking, Research, Reading, and Writing. Phương pháp SIFT gồm bốn bước nào?",
+    "expected_answer": "Dừng lại, kiểm tra nguồn, tìm nguồn đưa tin tốt hơn và truy các tuyên bố về ngữ cảnh gốc.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 68,
+    "evidence_quote": "stop; investigate the source; find better coverage; and trace the claims to the original context.",
+    "filter": {
+      "chapter": "critical_thinking"
+    }
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Trong một tác phẩm triết học xây dựng lập trường bằng lập luận, các nguồn bằng chứng được dùng để làm gì?",
+    "expected_answer": "Củng cố các tiền đề để đi đến kết luận mà tác giả muốn bảo vệ.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 72,
+    "evidence_quote": "Sources of evidence will be used to bolster premises for the purpose of reaching a desired conclusion."
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Sau khi đọc nhanh và đánh dấu một bài triết học, bước đọc tiếp theo là gì?",
+    "expected_answer": "Đọc kỹ và xem lại, chỉnh sửa các đánh dấu.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 75,
+    "evidence_quote": "Fast read with flagging • Close read and revise flagging"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Một câu luận đề trong bài viết triết học phải có dạng gì và làm nhiệm vụ gì?",
+    "expected_answer": "Đó là câu trần thuật nêu một lập trường hoặc đưa ra một khẳng định về chủ đề.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 76,
+    "evidence_quote": "A thesis statement is a declarative statement that puts forward a position or makes a claim about some topic."
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Trong phần về mệnh đề logic, phản ví dụ được dùng để làm gì với một mệnh đề điều kiện?",
+    "expected_answer": "Dùng để bác bỏ mệnh đề điều kiện.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 156,
+    "evidence_quote": "Counterexamples are statements used to disprove a conditional."
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Trong một lập luận, các lý do được đưa ra để ủng hộ kết luận được gọi là gì?",
+    "expected_answer": "Các tiền đề (premises).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 158,
+    "evidence_quote": "The reasons offered are called premises."
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Nếu một suy luận diễn dịch không hợp lệ nhưng các tiền đề đều đúng, kết luận có thể sai không?",
+    "expected_answer": "Có. Cấu trúc suy luận không bảo đảm kết luận đúng, nên kết luận vẫn có thể sai.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 162,
+    "evidence_quote": "In invalid inferences, their structure does not guarantee the truth of the conclusion—that is to say, even if the premises are true, the conclusion may be false."
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Trong ví dụ về những con mèo từng được vuốt ve, người lập luận dự đoán gì về con mèo đang xét?",
+    "expected_answer": "Con mèo này có lẽ cũng không chịu được việc bị kéo đuôi.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 165,
+    "evidence_quote": "Every cat I have ever petted doesn’t tolerate its tail being pulled. So this cat probably will not tolerate having its tail pulled."
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Trong ngụy biện tu quoque, người phản bác tìm cách làm suy yếu lập luận của đối phương bằng cách nào?",
+    "expected_answer": "Chỉ ra sự đạo đức giả có thật hoặc bị cho là có ở đối phương.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 170,
+    "evidence_quote": "When someone commits a tu quoque ad hominem fallacy, they attempt to undermine a person’s argument by pointing to real or perceived hypocrisy on the part of the person."
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Vì sao một kết luận có thể bị xem là khái quát hóa vội vàng?",
+    "expected_answer": "Vì người lập luận đưa ra kết luận dựa trên quá ít bằng chứng.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 171,
+    "evidence_quote": "A hasty generalization is a fallacy of weak induction in which a person draws a conclusion using too little evidence to support the conclusion."
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Hai sự kiện xảy ra cùng lúc và một người lập tức cho rằng sự kiện này gây ra sự kiện kia dù mối quan hệ nhân quả khó có khả năng tồn tại. Đây là lỗi suy luận gì?",
+    "expected_answer": "Ngụy biện gán nguyên nhân sai (false cause).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 172,
+    "evidence_quote": "The fallacy of false cause occurs when a causal relation is assumed to exist between two events or things when it is unlikely that such a causal relationship exists. People often make this mistake when the two events occur together."
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Trong ví dụ về ngụy biện lưỡng phân giả, giả định có vấn đề ở tiền đề thứ nhất là gì?",
+    "expected_answer": "Giả định rằng A và B là hai lựa chọn duy nhất.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 173,
+    "evidence_quote": "The problematic assumption occurs in premise 1, where it is assumed that A and B are the only options."
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Tôi đang đọc chương Logic and Reasoning. Nếu một người trình bày phiên bản yếu hơn của lập trường đối phương để dễ bác bỏ, đó là ngụy biện gì?",
+    "expected_answer": "Ngụy biện người rơm (strawman).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 174,
+    "evidence_quote": "Hence, a strawman occurs when an arguer presents a weaker version of the position they are arguing against to make the position easier to defeat.",
+    "filter": {
+      "chapter": "logic_and_reasoning"
+    }
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Theo phần bàn về vai trò của cảm xúc, homeostasis là xu hướng sinh học hướng tới trạng thái nào?",
+    "expected_answer": "Một trạng thái cân bằng trung tính.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 55,
+    "evidence_quote": "Homeostasis is the biological tendency to find a neutral state of equilibrium"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Trong ví dụ có kết luận Paris là thủ đô nước Pháp, vì sao lập luận vẫn phi logic dù các tiền đề và kết luận đều đúng?",
+    "expected_answer": "Vì các tiền đề không hỗ trợ kết luận.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 160,
+    "evidence_quote": "The premises of the above argument are true, as is the conclusion. However, the argument is illogical because the premises do not support the conclusion."
+  }
+]

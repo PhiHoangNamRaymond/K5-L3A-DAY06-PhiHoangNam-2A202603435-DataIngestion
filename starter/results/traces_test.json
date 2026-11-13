@@ -1,0 +1,910 @@
+[
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Hai sự kiện xảy ra cùng lúc và một người lập tức cho rằng sự kiện này gây ra sự kiện kia dù mối quan hệ nhân quả khó có khả năng tồn tại. Đây là lỗi suy luận gì?",
+    "expected_answer": "Ngụy biện gán nguyên nhân sai (false cause).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 172,
+    "evidence_quote": "The fallacy of false cause occurs when a causal relation is assumed to exist between two events or things when it is unlikely that such a causal relationship exists. People often make this mistake when the two events occur together.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "for X should not always function as evidence that X is false or does not exist. False Cause Attribution The fallacy of false cause occurs when a causal relation is assumed to exist between two events or things when it is unlikely that such a causal relationship exists. People often make this mistake when the two events occur together. The phrase “correlation does not equal causation” captures a common critique of this form of false cause reasoning. For example, a person may think that swimsuits ",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6872140914883835,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:A:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "sumed to exist between two events or things that are not causally connected; “correlation does not equal causation” Fallacies of unwarranted assumption—rely on information or beliefs that require further justification False dichotomy A limited number of possibilities are assumed to be the only available options Begging the question Either assumes the truth of a conclusion in the course of trying to prove it or assumes the truth of a contentious claim Fallacies of diversion—rely on attempts to di",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6104424878296139,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:A:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "g. For example, a person may think that swimsuits cause sunburns because people often get sunburned when wearing swimsuits. There is a correlation between sunburn and swimsuits, but the suits are not a cause of sunburns. False cause fallacies also occur when a person believes that just because one event occurs after another, the first event is the cause of the second one. This poor form of reasoning, in tandem with confirmation bias, leads to many superstitious beliefs. Confirmation bias is the ",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.606665392320198,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Hai sự kiện xảy ra cùng lúc và một người lập tức cho rằng sự kiện này gây ra sự kiện kia dù mối quan hệ nhân quả khó có khả năng tồn tại. Đây là lỗi suy luận gì?",
+    "expected_answer": "Ngụy biện gán nguyên nhân sai (false cause).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 172,
+    "evidence_quote": "The fallacy of false cause occurs when a causal relation is assumed to exist between two events or things when it is unlikely that such a causal relationship exists. People often make this mistake when the two events occur together.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "for X should not always function as evidence that X is false or does not exist. False Cause Attribution The fallacy of false cause occurs when a causal relation is assumed to exist between two events or things when it is unlikely that such a causal relationship exists. People often make this mistake when the two events occur together. The phrase “correlation does not equal causation” captures a common critique of this form of false cause reasoning.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6736579524890856,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "FIGURE 5.7 Correlation Is Not the Same as Causation (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) In short, as emphasized by Figure 5.7, just because two things are often correlated (connected in that they occur together in time or place) does not mean that a cause-and-effect relationship exists between them. CONNECTIONS See the chapter on critical thinking, research, reading, and writing to learn more about confirmation bias.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.626182824091278,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "For example, a person may think that swimsuits cause sunburns because people often get sunburned when wearing swimsuits. There is a correlation between sunburn and swimsuits, but the suits are not a cause of sunburns. False cause fallacies also occur when a person believes that just because one event occurs after another, the first event is the cause of the second one. This poor form of reasoning, in tandem with confirmation bias, leads to many superstitious beliefs.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6039531826974034,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Hai sự kiện xảy ra cùng lúc và một người lập tức cho rằng sự kiện này gây ra sự kiện kia dù mối quan hệ nhân quả khó có khả năng tồn tại. Đây là lỗi suy luận gì?",
+    "expected_answer": "Ngụy biện gán nguyên nhân sai (false cause).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 172,
+    "evidence_quote": "The fallacy of false cause occurs when a causal relation is assumed to exist between two events or things when it is unlikely that such a causal relationship exists. People often make this mistake when the two events occur together.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "for X should not always function as evidence that X is false or does not exist. False Cause Attribution The fallacy of false cause occurs when a causal relation is assumed to exist between two events or things when it is unlikely that such a causal relationship exists. People often make this mistake when the two events occur together. The phrase “correlation does not equal causation” captures a common critique of this form of false cause reasoning.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6736579524890856,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "FIGURE 5.7 Correlation Is Not the Same as Causation (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license) In short, as emphasized by Figure 5.7, just because two things are often correlated (connected in that they occur together in time or place) does not mean that a cause-and-effect relationship exists between them. CONNECTIONS See the chapter on critical thinking, research, reading, and writing to learn more about confirmation bias.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.626182824091278,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "For example, a person may think that swimsuits cause sunburns because people often get sunburned when wearing swimsuits. There is a correlation between sunburn and swimsuits, but the suits are not a cause of sunburns. False cause fallacies also occur when a person believes that just because one event occurs after another, the first event is the cause of the second one. This poor form of reasoning, in tandem with confirmation bias, leads to many superstitious beliefs.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6039531826974034,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Trong ví dụ về ngụy biện lưỡng phân giả, giả định có vấn đề ở tiền đề thứ nhất là gì?",
+    "expected_answer": "Giả định rằng A và B là hai lựa chọn duy nhất.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 173,
+    "evidence_quote": "The problematic assumption occurs in premise 1, where it is assumed that A and B are the only options.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:173:A:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 173,
+        "text": "untry and not be a traitor. False dichotomy is poor reasoning because it artificially limits the available options and then uses this artificial limitation to attempt to prove some conclusion. A false dichotomy may include more than two options. The important thing to remember is a false dichotomy limits options in an argument without justification when there is reason to think there are more options. Begging the Question Begging the question occurs when an arguer either assumes the truth of the",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5475136141422222,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:162:A:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 162,
+        "text": "re two common invalid inference forms: Affirming the Consequent: 1. If X, then Y. 2. Y. 3. Therefore, X. Denying the Antecedent: 1. If X, then Y. 2. Not X. 3. Therefore, not Y. You saw the first form, affirming the consequent, in the previous example concerning school closures. The fallacy is so called because the truth of the consequent (the necessary condition) is affirmed to infer the truth of the antecedent statement. The second form, denying the antecedent, occurs when the truth of the ante",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5458041429520274,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:A:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "sumed to exist between two events or things that are not causally connected; “correlation does not equal causation” Fallacies of unwarranted assumption—rely on information or beliefs that require further justification False dichotomy A limited number of possibilities are assumed to be the only available options Begging the question Either assumes the truth of a conclusion in the course of trying to prove it or assumes the truth of a contentious claim Fallacies of diversion—rely on attempts to di",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5386340136557614,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Trong ví dụ về ngụy biện lưỡng phân giả, giả định có vấn đề ở tiền đề thứ nhất là gì?",
+    "expected_answer": "Giả định rằng A và B là hai lựa chọn duy nhất.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 173,
+    "evidence_quote": "The problematic assumption occurs in premise 1, where it is assumed that A and B are the only options.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "assumption—rely on information or beliefs that require further justification",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5515705820153913,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:159:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 159,
+        "text": "the premises being advanced for a conclusion.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5507442769726756,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:162:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 162,
+        "text": "Therefore, X. Denying the Antecedent: 1. If X, then Y. 2. Not X. 3. Therefore, not Y. You saw the first form, affirming the consequent, in the previous example concerning school closures. The fallacy is so called because the truth of the consequent (the necessary condition) is affirmed to infer the truth of the antecedent statement. The second form, denying the antecedent, occurs when the truth of the antecedent statement is denied to infer that the consequent is false.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5400036799901344,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Trong ví dụ về ngụy biện lưỡng phân giả, giả định có vấn đề ở tiền đề thứ nhất là gì?",
+    "expected_answer": "Giả định rằng A và B là hai lựa chọn duy nhất.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 173,
+    "evidence_quote": "The problematic assumption occurs in premise 1, where it is assumed that A and B are the only options.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "assumption—rely on information or beliefs that require further justification",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5515705820153913,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:159:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 159,
+        "text": "the premises being advanced for a conclusion.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5507442769726756,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:162:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 162,
+        "text": "Therefore, X. Denying the Antecedent: 1. If X, then Y. 2. Not X. 3. Therefore, not Y. You saw the first form, affirming the consequent, in the previous example concerning school closures. The fallacy is so called because the truth of the consequent (the necessary condition) is affirmed to infer the truth of the antecedent statement. The second form, denying the antecedent, occurs when the truth of the antecedent statement is denied to infer that the consequent is false.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5400036799901344,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Tôi đang đọc chương Logic and Reasoning. Nếu một người trình bày phiên bản yếu hơn của lập trường đối phương để dễ bác bỏ, đó là ngụy biện gì?",
+    "expected_answer": "Ngụy biện người rơm (strawman).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 174,
+    "evidence_quote": "Hence, a strawman occurs when an arguer presents a weaker version of the position they are arguing against to make the position easier to defeat.",
+    "requested_filter": {
+      "chapter": "logic_and_reasoning"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:A:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "laim Fallacies of diversion—rely on attempts to distract the attention of the audience away from the argument at hand Strawman Utilizes a weaker version of the position being argued against in order to make the position easier to defeat Red Herring Ignores the opponent’s position and simply changes the subject TABLE 5.3 Types of Informal Fallacies 5.5 • Informal Fallacies 165",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6268552977709232,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:64:A:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 64,
+        "text": "e case in favor of it. This is the opposite of strawmanning an argument, in which you construct a weaker version of the argument to easily defeat it. You may be tempted to strawman arguments you naturally disagree with, but you will become a better philosopher when you steelman those arguments instead. CONNECTIONS Learn more about the strawman fallacy in the chapter on logic and reasoning. Identify Counterexamples Generating counterexamples is an effective way to test your own or others’ claims.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.62490509451571,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:174:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 174,
+        "text": "Strawman Men made of straw can easily be knocked over. Hence, a strawman occurs when an arguer presents a weaker version of the position they are arguing against to make the position easier to defeat. The arguer takes their opponent’s argument, repackages it, and defeats this new version of the argument rather than their opponent’s actual position. If the audience listening to or reading the argument is not careful, they won’t notice this move and believe that the opponent’s original position ha",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6122788653041676,
+        "rank": 3,
+        "evidence_match": true
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": false,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Tôi đang đọc chương Logic and Reasoning. Nếu một người trình bày phiên bản yếu hơn của lập trường đối phương để dễ bác bỏ, đó là ngụy biện gì?",
+    "expected_answer": "Ngụy biện người rơm (strawman).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 174,
+    "evidence_quote": "Hence, a strawman occurs when an arguer presents a weaker version of the position they are arguing against to make the position easier to defeat.",
+    "requested_filter": {
+      "chapter": "logic_and_reasoning"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:174:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 174,
+        "text": "The repackaged argument is much easier to defeat than the senator’s actual argument since few people are in favor of not allowing any immigration into the country. Red Herring A red herring fallacy is like a strawman, except the arguer completely ignores their opponent’s position and simply changes the subject. The arguer diverts the attention of the audience to a new subject.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6228872273695537,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:B:6",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "Strawman Utilizes a weaker version of the position being argued against in order to make the position easier to defeat Red Herring Ignores the opponent’s position and simply changes the subject TABLE 5.3 Types of Informal Fallacies 5.5 • Informal Fallacies 165",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6178530822905645,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:169:B:9",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 169,
+        "text": "For example, the arguer may verbally attack the person by making fun of their appearance, intelligence, or character; they can highlight something about the person’s circumstances like their job or past; or they can insinuate that the person is a hypocrite. You may wonder why such arguments are effective, and one reason is sloppy associative reasoning, wherein we problematically assume that characteristics held by an arguer will be transferred to their argument.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6059699058533404,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": true,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Tôi đang đọc chương Logic and Reasoning. Nếu một người trình bày phiên bản yếu hơn của lập trường đối phương để dễ bác bỏ, đó là ngụy biện gì?",
+    "expected_answer": "Ngụy biện người rơm (strawman).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 174,
+    "evidence_quote": "Hence, a strawman occurs when an arguer presents a weaker version of the position they are arguing against to make the position easier to defeat.",
+    "requested_filter": {
+      "chapter": "logic_and_reasoning"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:174:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 174,
+        "text": "The repackaged argument is much easier to defeat than the senator’s actual argument since few people are in favor of not allowing any immigration into the country. Red Herring A red herring fallacy is like a strawman, except the arguer completely ignores their opponent’s position and simply changes the subject. The arguer diverts the attention of the audience to a new subject.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6228872273695537,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:B:6",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "Strawman Utilizes a weaker version of the position being argued against in order to make the position easier to defeat Red Herring Ignores the opponent’s position and simply changes the subject TABLE 5.3 Types of Informal Fallacies 5.5 • Informal Fallacies 165",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6178530822905645,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:169:B:9",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 169,
+        "text": "For example, the arguer may verbally attack the person by making fun of their appearance, intelligence, or character; they can highlight something about the person’s circumstances like their job or past; or they can insinuate that the person is a hypocrite. You may wonder why such arguments are effective, and one reason is sloppy associative reasoning, wherein we problematically assume that characteristics held by an arguer will be transferred to their argument.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6059699058533404,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": true,
+    "strategy": "C",
+    "applied_filter": {
+      "chapter": "logic_and_reasoning"
+    }
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Theo phần bàn về vai trò của cảm xúc, homeostasis là xu hướng sinh học hướng tới trạng thái nào?",
+    "expected_answer": "Một trạng thái cân bằng trung tính.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 55,
+    "evidence_quote": "Homeostasis is the biological tendency to find a neutral state of equilibrium",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:55:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 55,
+        "text": "Damasio (1994) explains that emotions serve to maintain homeostasis in the brain through the chemical messengers known as neurotransmitters. Homeostasis is the biological tendency to find a neutral state of equilibrium (the word stasis means “standing still,” and homeo means “same or similar”). This process relies on a feedback loop where current bodily states are monitored, observed, and then altered to bring the body back into balance. Most homeostatic processes in the body are unconscious, bu",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6886527743534329,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:55:A:7",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 55,
+        "text": "ws us to navigate fluidly and accurately through a world with so many and varied stimuli. Our reactions to stimuli are partially homeostatic, meaning that the body tends to bring itself back into an optimal state of equilibrium, and partially allostatic, meaning that the body prepares for and anticipates future situations. Together, these impulses construct a picture of the world that we experience seamlessly and dynamically. Our experience is far more complicated than the crude mental model we ",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5849594170000295,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:55:A:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 55,
+        "text": " social norms and social interactions. The process of regulation that prepares the body to anticipate future needs before they arise is called allostasis (allo means “other or different”). Psychologist Lisa Feldman Barrett (2017) explains that the brain stores neural pathways that are triggered by external or internal stimuli to provide the closest match to the current situation. The neural pathways form a kind of template of action, promoting behavior like increased heart rate, pupil dilation, ",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5489506931989155,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Theo phần bàn về vai trò của cảm xúc, homeostasis là xu hướng sinh học hướng tới trạng thái nào?",
+    "expected_answer": "Một trạng thái cân bằng trung tính.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 55,
+    "evidence_quote": "Homeostasis is the biological tendency to find a neutral state of equilibrium",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:55:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 55,
+        "text": "Damasio (1994) explains that emotions serve to maintain homeostasis in the brain through the chemical messengers known as neurotransmitters. Homeostasis is the biological tendency to find a neutral state of equilibrium (the word stasis means “standing still,” and homeo means “same or similar”). This process relies on a feedback loop where current bodily states are monitored, observed, and then altered to bring the body back into balance.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6828087132433145,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:55:B:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 55,
+        "text": "Our reactions to stimuli are partially homeostatic, meaning that the body tends to bring itself back into an optimal state of equilibrium, and partially allostatic, meaning that the body prepares for and anticipates future situations. Together, these impulses construct a picture of the world that we experience seamlessly and dynamically. Our experience is far more complicated than the crude mental model we imagine.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5825403182281139,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:55:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 55,
+        "text": "Most homeostatic processes in the body are unconscious, but emotions are linked to conscious awareness. For instance, when your blood sugar is low and your body needs calories, there is a series of chemical processes that give rise to the feeling of hunger. This is a conscious signal that you need to eat; it promotes behavior that ensures survival.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5626435651861832,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Theo phần bàn về vai trò của cảm xúc, homeostasis là xu hướng sinh học hướng tới trạng thái nào?",
+    "expected_answer": "Một trạng thái cân bằng trung tính.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 55,
+    "evidence_quote": "Homeostasis is the biological tendency to find a neutral state of equilibrium",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:55:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 55,
+        "text": "Damasio (1994) explains that emotions serve to maintain homeostasis in the brain through the chemical messengers known as neurotransmitters. Homeostasis is the biological tendency to find a neutral state of equilibrium (the word stasis means “standing still,” and homeo means “same or similar”). This process relies on a feedback loop where current bodily states are monitored, observed, and then altered to bring the body back into balance.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6828087132433145,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:55:B:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 55,
+        "text": "Our reactions to stimuli are partially homeostatic, meaning that the body tends to bring itself back into an optimal state of equilibrium, and partially allostatic, meaning that the body prepares for and anticipates future situations. Together, these impulses construct a picture of the world that we experience seamlessly and dynamically. Our experience is far more complicated than the crude mental model we imagine.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5825403182281139,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:55:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 55,
+        "text": "Most homeostatic processes in the body are unconscious, but emotions are linked to conscious awareness. For instance, when your blood sugar is low and your body needs calories, there is a series of chemical processes that give rise to the feeling of hunger. This is a conscious signal that you need to eat; it promotes behavior that ensures survival.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5626435651861832,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Trong ví dụ có kết luận Paris là thủ đô nước Pháp, vì sao lập luận vẫn phi logic dù các tiền đề và kết luận đều đúng?",
+    "expected_answer": "Vì các tiền đề không hỗ trợ kết luận.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 160,
+    "evidence_quote": "The premises of the above argument are true, as is the conclusion. However, the argument is illogical because the premises do not support the conclusion.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:160:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 160,
+        "text": "1. The battle of Hastings occurred in 1066. 2. Tamaracks are deciduous conifer trees. 3. Therefore, Paris is the capital of France. The premises of the above argument are true, as is the conclusion. However, the argument is illogical because the premises do not support the conclusion. Indeed, the premises are unrelated to each other and to the conclusion. More specifically, the argument does not contain a clear inference or evidence of reasoning. An inference is a reasoning process that leads fr",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6984163522720783,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:158:A:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 158,
+        "text": "craft a numbered argument to make clear each individual claim (premise) given in support of the conclusion. Here is an example of a numbered argument: 1. If someone lives in San Francisco, then they live in California. 2. If someone lives in California, then they live in the United States. 3. Hassan lives in San Francisco. 4. Therefore, Hassan lives in the United States. 148 5 • Logic and Reasoning Access for free at openstax.org",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5323666651467718,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:160:A:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 160,
+        "text": "es helps us reason toward the truth of the conclusion. Here is another absurd argument: 1. If the moon is made of cheese, then mice vacation there. 2. The moon is made of cheese. 3. Therefore, mice vacation on the moon. The premises of the above argument are false, as is the conclusion. However, the argument has strong reasoning because it contains a good inference. If the premises are true, then the conclusion does follow. Indeed, the argument uses a particular kind of inference—deductive infer",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5180232722225642,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Trong ví dụ có kết luận Paris là thủ đô nước Pháp, vì sao lập luận vẫn phi logic dù các tiền đề và kết luận đều đúng?",
+    "expected_answer": "Vì các tiền đề không hỗ trợ kết luận.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 160,
+    "evidence_quote": "The premises of the above argument are true, as is the conclusion. However, the argument is illogical because the premises do not support the conclusion.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:160:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 160,
+        "text": "1. The battle of Hastings occurred in 1066. 2. Tamaracks are deciduous conifer trees. 3. Therefore, Paris is the capital of France. The premises of the above argument are true, as is the conclusion. However, the argument is illogical because the premises do not support the conclusion. Indeed, the premises are unrelated to each other and to the conclusion. More specifically, the argument does not contain a clear inference or evidence of reasoning.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.68940272611461,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:158:B:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 158,
+        "text": "Often philosophers will craft a numbered argument to make clear each individual claim (premise) given in support of the conclusion. Here is an example of a numbered argument: 1. If someone lives in San Francisco, then they live in California. 2. If someone lives in California, then they live in the United States. 3. Hassan lives in San Francisco. 4. Therefore, Hassan lives in the United States. 148 5 • Logic and Reasoning Access for free at openstax.org",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5663063853012783,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:160:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 160,
+        "text": "Neither the truth nor the falsity of the premises helps us reason toward the truth of the conclusion. Here is another absurd argument: 1. If the moon is made of cheese, then mice vacation there. 2. The moon is made of cheese. 3. Therefore, mice vacation on the moon. The premises of the above argument are false, as is the conclusion. However, the argument has strong reasoning because it contains a good inference. If the premises are true, then the conclusion does follow.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5328099488276237,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Trong ví dụ có kết luận Paris là thủ đô nước Pháp, vì sao lập luận vẫn phi logic dù các tiền đề và kết luận đều đúng?",
+    "expected_answer": "Vì các tiền đề không hỗ trợ kết luận.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 160,
+    "evidence_quote": "The premises of the above argument are true, as is the conclusion. However, the argument is illogical because the premises do not support the conclusion.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:160:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 160,
+        "text": "1. The battle of Hastings occurred in 1066. 2. Tamaracks are deciduous conifer trees. 3. Therefore, Paris is the capital of France. The premises of the above argument are true, as is the conclusion. However, the argument is illogical because the premises do not support the conclusion. Indeed, the premises are unrelated to each other and to the conclusion. More specifically, the argument does not contain a clear inference or evidence of reasoning.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.68940272611461,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:158:B:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 158,
+        "text": "Often philosophers will craft a numbered argument to make clear each individual claim (premise) given in support of the conclusion. Here is an example of a numbered argument: 1. If someone lives in San Francisco, then they live in California. 2. If someone lives in California, then they live in the United States. 3. Hassan lives in San Francisco. 4. Therefore, Hassan lives in the United States. 148 5 • Logic and Reasoning Access for free at openstax.org",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5663063853012783,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:160:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 160,
+        "text": "Neither the truth nor the falsity of the premises helps us reason toward the truth of the conclusion. Here is another absurd argument: 1. If the moon is made of cheese, then mice vacation there. 2. The moon is made of cheese. 3. Therefore, mice vacation on the moon. The premises of the above argument are false, as is the conclusion. However, the argument has strong reasoning because it contains a good inference. If the premises are true, then the conclusion does follow.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5328099488276237,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  }
+]

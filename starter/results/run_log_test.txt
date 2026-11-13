@@ -1,0 +1,8 @@
+2026-11-13 23:30:18,696 INFO run: Loaded 56 corpus pages
+2026-11-13 23:30:18,806 INFO run: Embedding A: 432 chunks...
+2026-11-13 23:30:28,007 INFO run: Embedding B: 454 chunks...
+2026-11-13 23:30:38,044 INFO run: A test | Hit@1 3/5 | Evidence Hit@3 4/5 | Page Hit@3 5/5 | Filter compliant 0/1
+2026-11-13 23:30:38,044 INFO run: B test | Hit@1 3/5 | Evidence Hit@3 3/5 | Page Hit@3 4/5 | Filter compliant 1/1
+2026-11-13 23:30:38,044 INFO run: C test | Hit@1 3/5 | Evidence Hit@3 3/5 | Page Hit@3 4/5 | Filter compliant 1/1
+2026-11-13 23:30:38,044 INFO run: Saved 15 traces to E:\vin24milliondong\K5-L3A-DAY06-PhiHoangNam-2A202603435-DataIngestion\starter\results\traces_test.json
+2026-11-13 23:30:38,044 INFO run: Saved summary to E:\vin24milliondong\K5-L3A-DAY06-PhiHoangNam-2A202603435-DataIngestion\starter\results\summary_test.json

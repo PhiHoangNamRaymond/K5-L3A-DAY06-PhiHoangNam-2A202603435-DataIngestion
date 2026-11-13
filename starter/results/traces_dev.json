@@ -1,0 +1,2718 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Trong một lập luận diễn dịch hợp lệ, điều gì phải đúng về kết luận nếu mọi tiền đề đều đúng?",
+    "expected_answer": "Kết luận bắt buộc phải đúng.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 161,
+    "evidence_quote": "The definition states that valid arguments have a form such that if the premises are true, then the conclusion must be true.",
+    "requested_filter": {
+      "chapter": "logic_and_reasoning"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:162:A:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 162,
+        "text": " is invalid. An instance of a deductive argument where the premises are all true 152 5 • Logic and Reasoning Access for free at openstax.org",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5906195448669507,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:161:A:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 161,
+        "text": "emises are true, then the conclusion must be true. You can test a deductive inference’s validity by testing whether the premises lead to the conclusion. If it is impossible for the conclusion to be false when the premises are assumed to be true, then the argument is valid. Deductive reasoning can use a number of valid argument structures: Disjunctive Syllogism: 1. X or Y. 2. Not Y. 3. Therefore X. Modus Ponens: 1. If X, then Y. 2. X. 3. Therefore Y. Modus Tollens: 1. If X, then Y. 2. Not Y. 3. T",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5866835324011777,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:161:A:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 161,
+        "text": "ve Inferences A good deductive inference is called a valid inference, meaning its structure guarantees the truth of its conclusion given the truth of the premises. Pay attention to this definition. The definition does not say that valid arguments have true conclusions. Validity is a property of the logical forms of arguments, and remember that logic and truth are distinct. The definition states that valid arguments have a form such that if the premises are true, then the conclusion must be true.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5682494939261161,
+        "rank": 3,
+        "evidence_match": true
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": true,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Trong một lập luận diễn dịch hợp lệ, điều gì phải đúng về kết luận nếu mọi tiền đề đều đúng?",
+    "expected_answer": "Kết luận bắt buộc phải đúng.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 161,
+    "evidence_quote": "The definition states that valid arguments have a form such that if the premises are true, then the conclusion must be true.",
+    "requested_filter": {
+      "chapter": "logic_and_reasoning"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:162:B:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 162,
+        "text": "For deductive arguments, if you can come up with a scenario where the premises are true but the conclusion is false, you have proven that the argument is invalid. An instance of a deductive argument where the premises are all true 152 5 • Logic and Reasoning Access for free at openstax.org",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6143868051399187,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:161:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 161,
+        "text": "The definition states that valid arguments have a form such that if the premises are true, then the conclusion must be true. You can test a deductive inference’s validity by testing whether the premises lead to the conclusion. If it is impossible for the conclusion to be false when the premises are assumed to be true, then the argument is valid. Deductive reasoning can use a number of valid argument structures: Disjunctive Syllogism: 1. X or Y. 2. Not Y. 3. Therefore X. Modus Ponens: 1.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5821033956490875,
+        "rank": 2,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:161:B:6",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 161,
+        "text": "So the conclusion (the truth of Y) necessarily follows. You can also use your knowledge of necessary and sufficient conditions to understand the last form, modus tollens. Remember, in a conditional, the consequent is the necessary condition. So Y is necessary for X. But premise 2 states that Y is not true. Because Y must be the case if X is the case, and we are told that Y is false, then we know that X is also false. These three examples are only a few of the numerous possible valid inferences.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5683530888593934,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": true,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Trong một lập luận diễn dịch hợp lệ, điều gì phải đúng về kết luận nếu mọi tiền đề đều đúng?",
+    "expected_answer": "Kết luận bắt buộc phải đúng.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 161,
+    "evidence_quote": "The definition states that valid arguments have a form such that if the premises are true, then the conclusion must be true.",
+    "requested_filter": {
+      "chapter": "logic_and_reasoning"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:162:B:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 162,
+        "text": "For deductive arguments, if you can come up with a scenario where the premises are true but the conclusion is false, you have proven that the argument is invalid. An instance of a deductive argument where the premises are all true 152 5 • Logic and Reasoning Access for free at openstax.org",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6143868051399187,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:161:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 161,
+        "text": "The definition states that valid arguments have a form such that if the premises are true, then the conclusion must be true. You can test a deductive inference’s validity by testing whether the premises lead to the conclusion. If it is impossible for the conclusion to be false when the premises are assumed to be true, then the argument is valid. Deductive reasoning can use a number of valid argument structures: Disjunctive Syllogism: 1. X or Y. 2. Not Y. 3. Therefore X. Modus Ponens: 1.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5821033956490875,
+        "rank": 2,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:161:B:6",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 161,
+        "text": "So the conclusion (the truth of Y) necessarily follows. You can also use your knowledge of necessary and sufficient conditions to understand the last form, modus tollens. Remember, in a conditional, the consequent is the necessary condition. So Y is necessary for X. But premise 2 states that Y is not true. Because Y must be the case if X is the case, and we are told that Y is false, then we know that X is also false. These three examples are only a few of the numerous possible valid inferences.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5683530888593934,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": true,
+    "strategy": "C",
+    "applied_filter": {
+      "chapter": "logic_and_reasoning"
+    }
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Một người thường tìm và ghi nhớ những thông tin ủng hộ niềm tin sẵn có của mình. Đây là thiên kiến gì?",
+    "expected_answer": "Thiên kiến xác nhận (confirmation bias).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 59,
+    "evidence_quote": "One of the most common cognitive biases is confirmation bias, which is the tendency to search for, interpret, favor, and recall information that confirms or supports your prior beliefs.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:A:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "y superstitious beliefs. Confirmation bias is the natural tendency to look for, interpret, or recall information that confirms already-established beliefs or values. For example, some sports fans may notice that their team won sometimes on days when they were wearing a specific item of clothing. They may come to believe that this clothing item is “lucky.” Furthermore, because of confirmation bias, they may remember only instances when the team won when they were wearing that item (and not rememb",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6548309067525235,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:59:A:7",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 59,
+        "text": "llows. VIDEO Cognitive Biases 101, with Peter Bauman Cognitive Biases 101, with Peter Baumann | Big Think (https://openstax.org/r/cognitive-biases-101) Confirmation Bias One of the most common cognitive biases is confirmation bias, which is the tendency to search for, interpret, favor, and recall information that confirms or supports your prior beliefs. Like all cognitive biases, confirmation bias serves an important function. For instance, one of the most reliable forms of confirmation bias is ",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5976262983122979,
+        "rank": 2,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:62:A:6",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 62,
+        "text": "ve harm that will be done going forward (Lazar 2018)? Such questions do not have easy answers. Table 2.1 summarizes these common cognitive biases. Bias Description Example Confirmation bias The tendency to search for, interpret, favor, and recall information that confirms or supports prior beliefs As part of their morning routine, a person scans news headlines on the internet and chooses to read only those stories that confirm views they already hold. Anchoring bias The tendency to rely on initi",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5958514391139793,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Một người thường tìm và ghi nhớ những thông tin ủng hộ niềm tin sẵn có của mình. Đây là thiên kiến gì?",
+    "expected_answer": "Thiên kiến xác nhận (confirmation bias).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 59,
+    "evidence_quote": "One of the most common cognitive biases is confirmation bias, which is the tendency to search for, interpret, favor, and recall information that confirms or supports your prior beliefs.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "Confirmation bias is the natural tendency to look for, interpret, or recall information that confirms already-established beliefs or values. For example, some sports fans may notice that their team won sometimes on days when they were wearing a specific item of clothing.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6434072706566406,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:62:B:7",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 62,
+        "text": "Bias Description Example Confirmation bias The tendency to search for, interpret, favor, and recall information that confirms or supports prior beliefs As part of their morning routine, a person scans news headlines on the internet and chooses to read only those stories that confirm views they already hold.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6295569704965146,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:60:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 60,
+        "text": "When searching for information on the internet about an event or topic, most people look for information that confirms their prior beliefs rather than what undercuts them. The pervasive presence of social media in our lives is exacerbating the effects of confirmation bias since the computer algorithms used by social media platforms steer people toward content that reinforces their current beliefs and predispositions.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6067272029518855,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Một người thường tìm và ghi nhớ những thông tin ủng hộ niềm tin sẵn có của mình. Đây là thiên kiến gì?",
+    "expected_answer": "Thiên kiến xác nhận (confirmation bias).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 59,
+    "evidence_quote": "One of the most common cognitive biases is confirmation bias, which is the tendency to search for, interpret, favor, and recall information that confirms or supports your prior beliefs.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "Confirmation bias is the natural tendency to look for, interpret, or recall information that confirms already-established beliefs or values. For example, some sports fans may notice that their team won sometimes on days when they were wearing a specific item of clothing.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6434072706566406,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:62:B:7",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 62,
+        "text": "Bias Description Example Confirmation bias The tendency to search for, interpret, favor, and recall information that confirms or supports prior beliefs As part of their morning routine, a person scans news headlines on the internet and chooses to read only those stories that confirm views they already hold.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6295569704965146,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:60:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 60,
+        "text": "When searching for information on the internet about an event or topic, most people look for information that confirms their prior beliefs rather than what undercuts them. The pervasive presence of social media in our lives is exacerbating the effects of confirmation bias since the computer algorithms used by social media platforms steer people toward content that reinforces their current beliefs and predispositions.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6067272029518855,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Siêu nhận thức là gì?",
+    "expected_answer": "Là suy nghĩ về chính quá trình suy nghĩ của mình.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 59,
+    "evidence_quote": "Metacognition means thinking about thinking",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:59:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 59,
+        "text": "This process of critical reflection is often called metacognition in the literature of pedagogy and psychology. Metacognition means thinking about thinking and involves the kind of self-awareness that engages higher- order thinking skills. Cognition, or the way we typically engage with the world around us, is first-order thinking, while metacognition is higher-order thinking. From a metacognitive frame, we can critically assess our thought process, become skeptical of our gut reactions and intui",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5328525898691671,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:52:A:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 52,
+        "text": "e is the mental process that allows us to draw conclusions from evidence. While we tend to think of inference as a deliberative and conscious process, we infer all kinds of things unconsciously, effortlessly, and immediately; in fact, most of sense perception is a kind of inference. Inference making has been crucial to human survival, but our conclusions are not always correct. By becoming aware of how our brains function to ward off threats and provide us with “cognitive ease,” or a feeling of ",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.492112173924965,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:54:A:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 54,
+        "text": "that sense perception is the clearest and most certain way you can know the world around you. As the adage says, “Seeing is believing.” To become a better critical thinker, however, you will need to become skeptical of some of your basic beliefs. There are times when you absolutely should not believe your lying eyes. Emotions and Reason: Homeostasis and Allostasis In addition to the editorial license of mental representation, thinking is not always as rational as we imagine. The neuroscientist A",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.488464845488215,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Siêu nhận thức là gì?",
+    "expected_answer": "Là suy nghĩ về chính quá trình suy nghĩ của mình.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 59,
+    "evidence_quote": "Metacognition means thinking about thinking",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:59:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 59,
+        "text": "This process of critical reflection is often called metacognition in the literature of pedagogy and psychology. Metacognition means thinking about thinking and involves the kind of self-awareness that engages higher- order thinking skills. Cognition, or the way we typically engage with the world around us, is first-order thinking, while metacognition is higher-order thinking.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5247003553869044,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:58:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 58,
+        "text": "When the brain defaults to heuristics that produce a less-than-optimal result or even an incorrect decision, it is operating with a cognitive bias. A cognitive bias is a pattern of “quick” thinking based on the “rule of thumb.” A person operating under a cognitive bias does not use logic or careful reasoning to arrive at a conclusion. Cognitive biases are like perceptual illusions.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.49833114400447853,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:54:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 54,
+        "text": "Like a newspaper editor, your brain is working overtime to project an image of the world based on what is relevant to your survival. You unconsciously adjust the images you perceive to give you the impression that they are far away, nearby, moving, and so forth. Instead of the fully formed, three-dimensional image of the world we seem to see, we actually perceive a kind of sketch, highlighting what we need to know to navigate safely in our environment and obtain what we need.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.4885283369523308,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Siêu nhận thức là gì?",
+    "expected_answer": "Là suy nghĩ về chính quá trình suy nghĩ của mình.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 59,
+    "evidence_quote": "Metacognition means thinking about thinking",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:59:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 59,
+        "text": "This process of critical reflection is often called metacognition in the literature of pedagogy and psychology. Metacognition means thinking about thinking and involves the kind of self-awareness that engages higher- order thinking skills. Cognition, or the way we typically engage with the world around us, is first-order thinking, while metacognition is higher-order thinking.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5247003553869044,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:58:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 58,
+        "text": "When the brain defaults to heuristics that produce a less-than-optimal result or even an incorrect decision, it is operating with a cognitive bias. A cognitive bias is a pattern of “quick” thinking based on the “rule of thumb.” A person operating under a cognitive bias does not use logic or careful reasoning to arrive at a conclusion. Cognitive biases are like perceptual illusions.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.49833114400447853,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:54:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 54,
+        "text": "Like a newspaper editor, your brain is working overtime to project an image of the world based on what is relevant to your survival. You unconsciously adjust the images you perceive to give you the impression that they are far away, nearby, moving, and so forth. Instead of the fully formed, three-dimensional image of the world we seem to see, we actually perceive a kind of sketch, highlighting what we need to know to navigate safely in our environment and obtain what we need.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.4885283369523308,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Theo lối tắt nhận thức availability heuristic, người ta dựa vào những ví dụ nào để đánh giá thông tin mới?",
+    "expected_answer": "Các ví dụ gần đây nhất hoặc dễ nhớ lại nhất.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 62,
+    "evidence_quote": "The tendency to evaluate new information based on the most recent or most easily recalled examples",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:61:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 61,
+        "text": "that feels difficult and unnatural. Resist the urge to latch on to the first thought that jumps into your head, and try to think the problem through with all the cognitive resources at your disposal. Availability Heuristic The availability heuristic refers to the tendency to evaluate new information based on the most recent or most easily recalled examples. The availability heuristic occurs when people take easily remembered instances as being more representative than they objectively are (i.e.,",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.7116412096238035,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:62:A:7",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 62,
+        "text": "hold. Anchoring bias The tendency to rely on initial values, prices, or quantities when estimating the actual value, price, or quantity of something When supplied with a random number and then asked to provide a number estimate in response to a question, people supply a number close to the random number they were initially given. Availability heuristic The tendency to evaluate new information based on the most recent or most easily recalled examples People in the United States overestimate the p",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6894730040898391,
+        "rank": 2,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:61:A:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 61,
+        "text": "re representative than they objectively are (i.e., based on statistical probabilities). In very simple situations, the availability of instances is a good guide to judgments. Suppose you are wondering whether you should plan for rain. It may make sense to anticipate rain if it has been raining a lot in the last few days since weather patterns tend to linger in most climates. More generally, scenarios that are well-known to us, dramatic, recent, or easy to imagine are more available for retrieval",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5707916105737384,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Theo lối tắt nhận thức availability heuristic, người ta dựa vào những ví dụ nào để đánh giá thông tin mới?",
+    "expected_answer": "Các ví dụ gần đây nhất hoặc dễ nhớ lại nhất.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 62,
+    "evidence_quote": "The tendency to evaluate new information based on the most recent or most easily recalled examples",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:61:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 61,
+        "text": "that feels difficult and unnatural. Resist the urge to latch on to the first thought that jumps into your head, and try to think the problem through with all the cognitive resources at your disposal. Availability Heuristic The availability heuristic refers to the tendency to evaluate new information based on the most recent or most easily recalled examples.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.7259751125589577,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:62:B:9",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 62,
+        "text": "Availability heuristic The tendency to evaluate new information based on the most recent or most easily recalled examples People in the United States overestimate the probability of dying in a criminal attack, since these types of stories are easy to vividly recall.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.7218531934637595,
+        "rank": 2,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:61:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 61,
+        "text": "The availability heuristic occurs when people take easily remembered instances as being more representative than they objectively are (i.e., based on statistical probabilities). In very simple situations, the availability of instances is a good guide to judgments. Suppose you are wondering whether you should plan for rain. It may make sense to anticipate rain if it has been raining a lot in the last few days since weather patterns tend to linger in most climates.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6869869323016428,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Theo lối tắt nhận thức availability heuristic, người ta dựa vào những ví dụ nào để đánh giá thông tin mới?",
+    "expected_answer": "Các ví dụ gần đây nhất hoặc dễ nhớ lại nhất.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 62,
+    "evidence_quote": "The tendency to evaluate new information based on the most recent or most easily recalled examples",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:61:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 61,
+        "text": "that feels difficult and unnatural. Resist the urge to latch on to the first thought that jumps into your head, and try to think the problem through with all the cognitive resources at your disposal. Availability Heuristic The availability heuristic refers to the tendency to evaluate new information based on the most recent or most easily recalled examples.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.7259751125589577,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:62:B:9",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 62,
+        "text": "Availability heuristic The tendency to evaluate new information based on the most recent or most easily recalled examples People in the United States overestimate the probability of dying in a criminal attack, since these types of stories are easy to vividly recall.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.7218531934637595,
+        "rank": 2,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:61:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 61,
+        "text": "The availability heuristic occurs when people take easily remembered instances as being more representative than they objectively are (i.e., based on statistical probabilities). In very simple situations, the availability of instances is a good guide to judgments. Suppose you are wondering whether you should plan for rain. It may make sense to anticipate rain if it has been raining a lot in the last few days since weather patterns tend to linger in most climates.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6869869323016428,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Một quảng cáo cố tạo cảm giác rằng ai cũng đang mua sản phẩm mới để thuyết phục bạn mua theo. Quảng cáo đang dựa vào ngụy biện nào?",
+    "expected_answer": "Ngụy biện chạy theo số đông (bandwagon fallacy).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 63,
+    "evidence_quote": "Advertisers often rely on the bandwagon fallacy, attempting to create the impression that “everyone” is buying a new product, in order to inspire others to buy it.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:63:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 63,
+        "text": "Bias Description Example Bandwagon fallacy The tendency to do something or believe something because many other people do or believe the same thing Advertisers often rely on the bandwagon fallacy, attempting to create the impression that “everyone” is buying a new product, in order to inspire others to buy it. Sunk cost fallacy The tendency to attach a value to things in which resources have been invested that is greater than the value those things actually have A business person continues to in",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6442202793896292,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:63:A:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 63,
+        "text": "gs actually have A business person continues to invest money in a failing venture, “throwing good money after bad.” Gambler’s fallacy The tendency to reason that future chance events will be more likely if they have not happened recently Someone who regularly buys lottery tickets reasons that they are “due to win,” since they haven’t won once in twenty years. TABLE 2.1 Common Cognitive Biases As we have seen, cognitive biases are built into the way human beings process information. They are comm",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5437378183037249,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:172:A:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 172,
+        "text": "y superstitious beliefs. Confirmation bias is the natural tendency to look for, interpret, or recall information that confirms already-established beliefs or values. For example, some sports fans may notice that their team won sometimes on days when they were wearing a specific item of clothing. They may come to believe that this clothing item is “lucky.” Furthermore, because of confirmation bias, they may remember only instances when the team won when they were wearing that item (and not rememb",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5322469155642846,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Một quảng cáo cố tạo cảm giác rằng ai cũng đang mua sản phẩm mới để thuyết phục bạn mua theo. Quảng cáo đang dựa vào ngụy biện nào?",
+    "expected_answer": "Ngụy biện chạy theo số đông (bandwagon fallacy).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 63,
+    "evidence_quote": "Advertisers often rely on the bandwagon fallacy, attempting to create the impression that “everyone” is buying a new product, in order to inspire others to buy it.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:63:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 63,
+        "text": "Bias Description Example Bandwagon fallacy The tendency to do something or believe something because many other people do or believe the same thing Advertisers often rely on the bandwagon fallacy, attempting to create the impression that “everyone” is buying a new product, in order to inspire others to buy it.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6992924934569056,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:159:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 159,
+        "text": "the premises being advanced for a conclusion.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5437248412654897,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:60:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 60,
+        "text": "When searching for information on the internet about an event or topic, most people look for information that confirms their prior beliefs rather than what undercuts them. The pervasive presence of social media in our lives is exacerbating the effects of confirmation bias since the computer algorithms used by social media platforms steer people toward content that reinforces their current beliefs and predispositions.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5406883261947815,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Một quảng cáo cố tạo cảm giác rằng ai cũng đang mua sản phẩm mới để thuyết phục bạn mua theo. Quảng cáo đang dựa vào ngụy biện nào?",
+    "expected_answer": "Ngụy biện chạy theo số đông (bandwagon fallacy).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 63,
+    "evidence_quote": "Advertisers often rely on the bandwagon fallacy, attempting to create the impression that “everyone” is buying a new product, in order to inspire others to buy it.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:63:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 63,
+        "text": "Bias Description Example Bandwagon fallacy The tendency to do something or believe something because many other people do or believe the same thing Advertisers often rely on the bandwagon fallacy, attempting to create the impression that “everyone” is buying a new product, in order to inspire others to buy it.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6992924934569056,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:159:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 159,
+        "text": "the premises being advanced for a conclusion.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5437248412654897,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:60:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 60,
+        "text": "When searching for information on the internet about an event or topic, most people look for information that confirms their prior beliefs rather than what undercuts them. The pervasive presence of social media in our lives is exacerbating the effects of confirmation bias since the computer algorithms used by social media platforms steer people toward content that reinforces their current beliefs and predispositions.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5406883261947815,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Tôi đang đọc chương Critical Thinking, Research, Reading, and Writing. Phương pháp SIFT gồm bốn bước nào?",
+    "expected_answer": "Dừng lại, kiểm tra nguồn, tìm nguồn đưa tin tốt hơn và truy các tuyên bố về ngữ cảnh gốc.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 68,
+    "evidence_quote": "stop; investigate the source; find better coverage; and trace the claims to the original context.",
+    "requested_filter": {
+      "chapter": "critical_thinking"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:68:A:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 68,
+        "text": "rn to use the search engine to your advantage. Caulfield recommends using the acronym SIFT, or the “four moves” of student fact checkers. FIGURE 2.6 The four moves for student fact checkers: stop; investigate the source; find better coverage; and trace the claims to the original context. (credit: “SIFT (The Four Moves)” by Michael Caulfield/hapgood.us, CC BY 4.0) Stop The first move reiterates something we have already discussed: to become a better critical thinker, slow down the quick and effic",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6422435641288803,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:A:9",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": "t if the reading is a fairly short, primary source reading from someone who is doing philosophy. Follow the three-step method for reading: READ LIKE A PHILOSOPHER 64 2 • Critical Thinking, Research, Reading, and Writing Access for free at openstax.org",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6244876943070751,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:70:A:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 70,
+        "text": "ael Caulfield/fourmoves.blog, CC BY 4.0) 2.5 Reading Philosophy LEARNING OBJECTIVES By the end of this section, you will be able to: • Describe strategies for reading philosophy. • Distinguish the goals of philosophical reading from other types of reading. • Employ a three-part method for reading philosophy. 60 2 • Critical Thinking, Research, Reading, and Writing Access for free at openstax.org",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6148400628948105,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": true,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Tôi đang đọc chương Critical Thinking, Research, Reading, and Writing. Phương pháp SIFT gồm bốn bước nào?",
+    "expected_answer": "Dừng lại, kiểm tra nguồn, tìm nguồn đưa tin tốt hơn và truy các tuyên bố về ngữ cảnh gốc.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 68,
+    "evidence_quote": "stop; investigate the source; find better coverage; and trace the claims to the original context.",
+    "requested_filter": {
+      "chapter": "critical_thinking"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:68:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 68,
+        "text": "(credit: “SIFT (The Four Moves)” by Michael Caulfield/hapgood.us, CC BY 4.0) Stop The first move reiterates something we have already discussed: to become a better critical thinker, slow down the quick and efficient thinking that leads to errors and engage in critical reflection and metacognition. By stopping, slowing down, or taking your time to allow for critical reflection, you will be using rational and reflective thinking to assess claims.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6544388598234187,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:68:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 68,
+        "text": "Caulfield recommends using the acronym SIFT, or the “four moves” of student fact checkers. FIGURE 2.6 The four moves for student fact checkers: stop; investigate the source; find better coverage; and trace the claims to the original context.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6522076337213746,
+        "rank": 2,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:B:9",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": "This exercise will work best if the reading is a fairly short, primary source reading from someone who is doing philosophy. Follow the three-step method for reading: READ LIKE A PHILOSOPHER 64 2 • Critical Thinking, Research, Reading, and Writing Access for free at openstax.org",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6092446549097331,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": true,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Tôi đang đọc chương Critical Thinking, Research, Reading, and Writing. Phương pháp SIFT gồm bốn bước nào?",
+    "expected_answer": "Dừng lại, kiểm tra nguồn, tìm nguồn đưa tin tốt hơn và truy các tuyên bố về ngữ cảnh gốc.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 68,
+    "evidence_quote": "stop; investigate the source; find better coverage; and trace the claims to the original context.",
+    "requested_filter": {
+      "chapter": "critical_thinking"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:68:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 68,
+        "text": "(credit: “SIFT (The Four Moves)” by Michael Caulfield/hapgood.us, CC BY 4.0) Stop The first move reiterates something we have already discussed: to become a better critical thinker, slow down the quick and efficient thinking that leads to errors and engage in critical reflection and metacognition. By stopping, slowing down, or taking your time to allow for critical reflection, you will be using rational and reflective thinking to assess claims.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6544388598234187,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:68:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 68,
+        "text": "Caulfield recommends using the acronym SIFT, or the “four moves” of student fact checkers. FIGURE 2.6 The four moves for student fact checkers: stop; investigate the source; find better coverage; and trace the claims to the original context.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6522076337213746,
+        "rank": 2,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:B:9",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": "This exercise will work best if the reading is a fairly short, primary source reading from someone who is doing philosophy. Follow the three-step method for reading: READ LIKE A PHILOSOPHER 64 2 • Critical Thinking, Research, Reading, and Writing Access for free at openstax.org",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6092446549097331,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": true,
+    "strategy": "C",
+    "applied_filter": {
+      "chapter": "critical_thinking"
+    }
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Trong một tác phẩm triết học xây dựng lập trường bằng lập luận, các nguồn bằng chứng được dùng để làm gì?",
+    "expected_answer": "Củng cố các tiền đề để đi đến kết luận mà tác giả muốn bảo vệ.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 72,
+    "evidence_quote": "Sources of evidence will be used to bolster premises for the purpose of reaching a desired conclusion.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:72:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 72,
+        "text": "draw on a variety of sources of evidence, including history, intuition, common sense, or empirical results from other disciplines or from experimental philosophy. In any case, most philosophical works will be attempting to develop a position through argumentation. Sources of evidence will be used to bolster premises for the purpose of reaching a desired conclusion. Additionally, the author may use a variety of methods to make an argument. If you can identify these methods, strategies, and source",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6984828417054402,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:A:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": "m reading? Identify Sources of Evidence and Methods of Argument Look for the evidence the author is providing to support the key claims. What methods does the author use to generate this evidence? Is the author using logical argumentation? Are there thought experiments or other forms of conceptual analysis? Does the author provide empirical evidence to back up the claims? In the best- case scenario, evidence will be provided shortly before or after the claim is announced. However, sometimes evid",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6035149816889621,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:77:A:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 77,
+        "text": "ition to [contemporary issue]. 3. When [name of philosopher] argues in favor of [claim], they rely on [another claim] that is undercut by contemporary science. I will show that if we modify this claim in light of contemporary science, we will strengthen or weaken [name of philosopher]’s argument. Collect Evidence and Build Your Case Once you have identified your thesis statement or primary claim, collect evidence (by returning to your readings) to compose the best possible argument. As you assem",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.598828935693022,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Trong một tác phẩm triết học xây dựng lập trường bằng lập luận, các nguồn bằng chứng được dùng để làm gì?",
+    "expected_answer": "Củng cố các tiền đề để đi đến kết luận mà tác giả muốn bảo vệ.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 72,
+    "evidence_quote": "Sources of evidence will be used to bolster premises for the purpose of reaching a desired conclusion.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:72:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 72,
+        "text": "draw on a variety of sources of evidence, including history, intuition, common sense, or empirical results from other disciplines or from experimental philosophy. In any case, most philosophical works will be attempting to develop a position through argumentation. Sources of evidence will be used to bolster premises for the purpose of reaching a desired conclusion. Additionally, the author may use a variety of methods to make an argument.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.7020972485310638,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:77:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 77,
+        "text": "When [name of philosopher] argues in favor of [claim], they rely on [another claim] that is undercut by contemporary science. I will show that if we modify this claim in light of contemporary science, we will strengthen or weaken [name of philosopher]’s argument. Collect Evidence and Build Your Case Once you have identified your thesis statement or primary claim, collect evidence (by returning to your readings) to compose the best possible argument.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6124522879890409,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": "Identify Sources of Evidence and Methods of Argument Look for the evidence the author is providing to support the key claims. What methods does the author use to generate this evidence? Is the author using logical argumentation? Are there thought experiments or other forms of conceptual analysis? Does the author provide empirical evidence to back up the claims? In the best- case scenario, evidence will be provided shortly before or after the claim is announced.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6116364430513929,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Trong một tác phẩm triết học xây dựng lập trường bằng lập luận, các nguồn bằng chứng được dùng để làm gì?",
+    "expected_answer": "Củng cố các tiền đề để đi đến kết luận mà tác giả muốn bảo vệ.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 72,
+    "evidence_quote": "Sources of evidence will be used to bolster premises for the purpose of reaching a desired conclusion.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:72:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 72,
+        "text": "draw on a variety of sources of evidence, including history, intuition, common sense, or empirical results from other disciplines or from experimental philosophy. In any case, most philosophical works will be attempting to develop a position through argumentation. Sources of evidence will be used to bolster premises for the purpose of reaching a desired conclusion. Additionally, the author may use a variety of methods to make an argument.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.7020972485310638,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:77:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 77,
+        "text": "When [name of philosopher] argues in favor of [claim], they rely on [another claim] that is undercut by contemporary science. I will show that if we modify this claim in light of contemporary science, we will strengthen or weaken [name of philosopher]’s argument. Collect Evidence and Build Your Case Once you have identified your thesis statement or primary claim, collect evidence (by returning to your readings) to compose the best possible argument.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6124522879890409,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": "Identify Sources of Evidence and Methods of Argument Look for the evidence the author is providing to support the key claims. What methods does the author use to generate this evidence? Is the author using logical argumentation? Are there thought experiments or other forms of conceptual analysis? Does the author provide empirical evidence to back up the claims? In the best- case scenario, evidence will be provided shortly before or after the claim is announced.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6116364430513929,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Sau khi đọc nhanh và đánh dấu một bài triết học, bước đọc tiếp theo là gì?",
+    "expected_answer": "Đọc kỹ và xem lại, chỉnh sửa các đánh dấu.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 75,
+    "evidence_quote": "Fast read with flagging • Close read and revise flagging",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:A:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": " thoughtful engagement with the ideas and arguments presented in the text. Now is when you critically reflect on, evaluate, and understand the author’s writing. At this point, you should not move any more quickly than you can think alongside the author. Use this time to follow up on questions you posed during flagging. Look up terms; do some research on concepts you do not understand. You do not need to understand the article perfectly, but you should understand it well enough to think about it.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6380191368511987,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:A:9",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": "t if the reading is a fairly short, primary source reading from someone who is doing philosophy. Follow the three-step method for reading: READ LIKE A PHILOSOPHER 64 2 • Critical Thinking, Research, Reading, and Writing Access for free at openstax.org",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.625703938515168,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:73:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 73,
+        "text": "FIGURE 2.10 Find a comfortable place to do your philosophy readings. (credit: \"Woman sitting in the forest and reading a book, autumn rest\" by Marco Verch/Flickr, CC BY 2.0) Pre-reading Start your reading with a pre-read. This is a very useful practice when tackling academic works. So much information can be learned simply by reviewing the surrounding features of the article, book, or chapter. Spend some time reviewing these elements to grasp the context for what you are about to read. Start wit",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6135120479638702,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Sau khi đọc nhanh và đánh dấu một bài triết học, bước đọc tiếp theo là gì?",
+    "expected_answer": "Đọc kỹ và xem lại, chỉnh sửa các đánh dấu.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 75,
+    "evidence_quote": "Fast read with flagging • Close read and revise flagging",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": "Close Read At this stage, you will read for thoughtful engagement with the ideas and arguments presented in the text. Now is when you critically reflect on, evaluate, and understand the author’s writing. At this point, you should not move any more quickly than you can think alongside the author. Use this time to follow up on questions you posed during flagging. Look up terms; do some research on concepts you do not understand.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6334355165896026,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:B:9",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": "This exercise will work best if the reading is a fairly short, primary source reading from someone who is doing philosophy. Follow the three-step method for reading: READ LIKE A PHILOSOPHER 64 2 • Critical Thinking, Research, Reading, and Writing Access for free at openstax.org",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6294180938428299,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:73:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 73,
+        "text": "FIGURE 2.10 Find a comfortable place to do your philosophy readings. (credit: \"Woman sitting in the forest and reading a book, autumn rest\" by Marco Verch/Flickr, CC BY 2.0) Pre-reading Start your reading with a pre-read. This is a very useful practice when tackling academic works. So much information can be learned simply by reviewing the surrounding features of the article, book, or chapter. Spend some time reviewing these elements to grasp the context for what you are about to read.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6100460836332647,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Sau khi đọc nhanh và đánh dấu một bài triết học, bước đọc tiếp theo là gì?",
+    "expected_answer": "Đọc kỹ và xem lại, chỉnh sửa các đánh dấu.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 75,
+    "evidence_quote": "Fast read with flagging • Close read and revise flagging",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": "Close Read At this stage, you will read for thoughtful engagement with the ideas and arguments presented in the text. Now is when you critically reflect on, evaluate, and understand the author’s writing. At this point, you should not move any more quickly than you can think alongside the author. Use this time to follow up on questions you posed during flagging. Look up terms; do some research on concepts you do not understand.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6334355165896026,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:74:B:9",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 74,
+        "text": "This exercise will work best if the reading is a fairly short, primary source reading from someone who is doing philosophy. Follow the three-step method for reading: READ LIKE A PHILOSOPHER 64 2 • Critical Thinking, Research, Reading, and Writing Access for free at openstax.org",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6294180938428299,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:73:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 73,
+        "text": "FIGURE 2.10 Find a comfortable place to do your philosophy readings. (credit: \"Woman sitting in the forest and reading a book, autumn rest\" by Marco Verch/Flickr, CC BY 2.0) Pre-reading Start your reading with a pre-read. This is a very useful practice when tackling academic works. So much information can be learned simply by reviewing the surrounding features of the article, book, or chapter. Spend some time reviewing these elements to grasp the context for what you are about to read.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6100460836332647,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Một câu luận đề trong bài viết triết học phải có dạng gì và làm nhiệm vụ gì?",
+    "expected_answer": "Đó là câu trần thuật nêu một lập trường hoặc đưa ra một khẳng định về chủ đề.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 76,
+    "evidence_quote": "A thesis statement is a declarative statement that puts forward a position or makes a claim about some topic.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:75:A:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 75,
+        "text": "ing. Different philosophy professors may have different approaches to writing. The sections below are only intended to give some general guidelines that apply to most philosophy classes. Identify Claims The key element in any argumentative paper is the claim you wish to make or the position you want to defend. Therefore, take your time identifying claims, which is also called the thesis statement. What do you want to say about the topic? What do you want the reader to understand or know after re",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6287597128772766,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:71:A:7",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 71,
+        "text": "nd remembering the key claims or points made by the author. Engaging with Philosophical Texts The purpose of philosophical writing is to engage the reader in a sequence of thoughts that either present a problem to be considered, prompt reflection on previous ideas and works, or lead to some insight or enlightenment. Philosophy consists of ideas and arguments. Your goal is to engage with those ideas and arguments to arrive at your own understanding of the issues. You may critically engage with th",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6186706762335451,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:75:A:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 75,
+        "text": "you want the reader to understand or know after reading your piece? Remember that narrow, modest claims work best. Grand claims are difficult to defend, even for philosophy professors. A good thesis statement should go beyond the mere description of another person’s argument. It should say something about the topic, connect the topic to other issues, or develop an application of some theory or position advocated by someone else. Here are some ideas for creating claims that are perfectly acceptab",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5888054933564858,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Một câu luận đề trong bài viết triết học phải có dạng gì và làm nhiệm vụ gì?",
+    "expected_answer": "Đó là câu trần thuật nêu một lập trường hoặc đưa ra một khẳng định về chủ đề.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 76,
+    "evidence_quote": "A thesis statement is a declarative statement that puts forward a position or makes a claim about some topic.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:75:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 75,
+        "text": "The format presented here focuses on the use of an argumentative structure in writing. Different philosophy professors may have different approaches to writing. The sections below are only intended to give some general guidelines that apply to most philosophy classes. Identify Claims The key element in any argumentative paper is the claim you wish to make or the position you want to defend. Therefore, take your time identifying claims, which is also called the thesis statement.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6112434202401431,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:75:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 75,
+        "text": "• Is the evidence adequate to support the claims the author makes? • Where do you think the evidence falls short? • Do you agree with the author’s claims? • Where do you disagree, and why? When you are writing philosophy papers, you should plan the structure of your argument in advance, spend time thinking about a thesis, and focus on an achievable aim relative to the length of your paper.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6025065557701667,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:75:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 75,
+        "text": "What do you want to say about the topic? What do you want the reader to understand or know after reading your piece? Remember that narrow, modest claims work best. Grand claims are difficult to defend, even for philosophy professors. A good thesis statement should go beyond the mere description of another person’s argument. It should say something about the topic, connect the topic to other issues, or develop an application of some theory or position advocated by someone else.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5985442278167086,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Một câu luận đề trong bài viết triết học phải có dạng gì và làm nhiệm vụ gì?",
+    "expected_answer": "Đó là câu trần thuật nêu một lập trường hoặc đưa ra một khẳng định về chủ đề.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 76,
+    "evidence_quote": "A thesis statement is a declarative statement that puts forward a position or makes a claim about some topic.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:75:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 75,
+        "text": "The format presented here focuses on the use of an argumentative structure in writing. Different philosophy professors may have different approaches to writing. The sections below are only intended to give some general guidelines that apply to most philosophy classes. Identify Claims The key element in any argumentative paper is the claim you wish to make or the position you want to defend. Therefore, take your time identifying claims, which is also called the thesis statement.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6112434202401431,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:75:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 75,
+        "text": "• Is the evidence adequate to support the claims the author makes? • Where do you think the evidence falls short? • Do you agree with the author’s claims? • Where do you disagree, and why? When you are writing philosophy papers, you should plan the structure of your argument in advance, spend time thinking about a thesis, and focus on an achievable aim relative to the length of your paper.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.6025065557701667,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:75:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 75,
+        "text": "What do you want to say about the topic? What do you want the reader to understand or know after reading your piece? Remember that narrow, modest claims work best. Grand claims are difficult to defend, even for philosophy professors. A good thesis statement should go beyond the mere description of another person’s argument. It should say something about the topic, connect the topic to other issues, or develop an application of some theory or position advocated by someone else.",
+        "metadata": {
+          "chapter": "critical_thinking",
+          "language": "en"
+        },
+        "score": 0.5985442278167086,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Trong phần về mệnh đề logic, phản ví dụ được dùng để làm gì với một mệnh đề điều kiện?",
+    "expected_answer": "Dùng để bác bỏ mệnh đề điều kiện.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 156,
+    "evidence_quote": "Counterexamples are statements used to disprove a conditional.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:158:A:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 158,
+        "text": "ased as conditionals (and vice versa), the ability to translate ordinary language statements into conditionals or universal statements is helpful for understanding logical meaning. Doing so can also help you identify necessary and sufficient conditions. Not all statements can be translated into these forms, but many can. Counterexamples to Universal Statements Universal affirmative statements also can be disproven using counterexamples. Take the belief that “All living things deserve moral consi",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6122607199626361,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:156:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 156,
+        "text": "5.2 Logical Statements LEARNING OBJECTIVES By the end of this section, you will be able to: • Identify the necessary and sufficient conditions in conditionals and universal affirmative statements. • Describe counterexamples for statements. • Assess the truth of conditionals and universal statements using counterexamples. Specific types of statements have a particular meaning in logic, and such statements are frequently used by philosophers in their arguments. Of particular importance is the cond",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6035389741432949,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:156:A:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 156,
+        "text": "ir arguments. Of particular importance is the conditional, which expresses the logical relations between two propositions. Conditional statements are used to accurately describe the world or construct a theory. Counterexamples are statements used to disprove a conditional. Universal statements are statements that assert something about every member of a set of things and are an alternative way to describe a conditional. Conditionals A conditional is most commonly expressed as an if–then statemen",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.600517255206641,
+        "rank": 3,
+        "evidence_match": true
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Trong phần về mệnh đề logic, phản ví dụ được dùng để làm gì với một mệnh đề điều kiện?",
+    "expected_answer": "Dùng để bác bỏ mệnh đề điều kiện.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 156,
+    "evidence_quote": "Counterexamples are statements used to disprove a conditional.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:156:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 156,
+        "text": "5.2 Logical Statements LEARNING OBJECTIVES By the end of this section, you will be able to: • Identify the necessary and sufficient conditions in conditionals and universal affirmative statements. • Describe counterexamples for statements. • Assess the truth of conditionals and universal statements using counterexamples. Specific types of statements have a particular meaning in logic, and such statements are frequently used by philosophers in their arguments.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6093797036452268,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:156:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 156,
+        "text": "Of particular importance is the conditional, which expresses the logical relations between two propositions. Conditional statements are used to accurately describe the world or construct a theory. Counterexamples are statements used to disprove a conditional. Universal statements are statements that assert something about every member of a set of things and are an alternative way to describe a conditional.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5963335789145642,
+        "rank": 2,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:158:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 158,
+        "text": "Because universal affirmative statements can always be rephrased as conditionals (and vice versa), the ability to translate ordinary language statements into conditionals or universal statements is helpful for understanding logical meaning. Doing so can also help you identify necessary and sufficient conditions. Not all statements can be translated into these forms, but many can. Counterexamples to Universal Statements Universal affirmative statements also can be disproven using counterexamples.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5815532325830313,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Trong phần về mệnh đề logic, phản ví dụ được dùng để làm gì với một mệnh đề điều kiện?",
+    "expected_answer": "Dùng để bác bỏ mệnh đề điều kiện.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 156,
+    "evidence_quote": "Counterexamples are statements used to disprove a conditional.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:156:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 156,
+        "text": "5.2 Logical Statements LEARNING OBJECTIVES By the end of this section, you will be able to: • Identify the necessary and sufficient conditions in conditionals and universal affirmative statements. • Describe counterexamples for statements. • Assess the truth of conditionals and universal statements using counterexamples. Specific types of statements have a particular meaning in logic, and such statements are frequently used by philosophers in their arguments.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6093797036452268,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:156:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 156,
+        "text": "Of particular importance is the conditional, which expresses the logical relations between two propositions. Conditional statements are used to accurately describe the world or construct a theory. Counterexamples are statements used to disprove a conditional. Universal statements are statements that assert something about every member of a set of things and are an alternative way to describe a conditional.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5963335789145642,
+        "rank": 2,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:158:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 158,
+        "text": "Because universal affirmative statements can always be rephrased as conditionals (and vice versa), the ability to translate ordinary language statements into conditionals or universal statements is helpful for understanding logical meaning. Doing so can also help you identify necessary and sufficient conditions. Not all statements can be translated into these forms, but many can. Counterexamples to Universal Statements Universal affirmative statements also can be disproven using counterexamples.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5815532325830313,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Trong một lập luận, các lý do được đưa ra để ủng hộ kết luận được gọi là gì?",
+    "expected_answer": "Các tiền đề (premises).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 158,
+    "evidence_quote": "The reasons offered are called premises.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:158:A:7",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 158,
+        "text": "lusion. Notice that the definition does not state that the reasons do support a conclusion (and rather states reasons are offered or meant to support a conclusion) because there are bad arguments in which reasons do not support a conclusion. Arguments have two components: the conclusion and the reasons offered to support it. The conclusion is what an arguer wants people to believe. The reasons offered are called premises. Often philosophers will craft a numbered argument to make clear each indiv",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6922284777914445,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:158:A:6",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 158,
+        "text": "eration. 5.3 Arguments LEARNING OBJECTIVES By the end of this section, you will be able to: • Define key components of an argument. • Categorize components of sample arguments. • Explain the difference between assessing logic and assessing truth. As explained at the beginning of the chapter, an argument in philosophy is simply a set of reasons offered in support of some conclusion. So an “arguer” is a person who offers reasons for a specific conclusion. Notice that the definition does not state ",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6356500063777677,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:159:A:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 159,
+        "text": " reasons or premises are being offered. In presenting evidence, people might use terms such as “because of” or “since” (see Table 5.1). Lastly, if it is difficult to first identify the conclusion of an argument, you may have to begin by parsing the evidence to then figure out the conclusion. Conclusion indicator words and phrases therefore, hence, so, thus, consequently, accordingly, as a result, it follows that, it entails that, we can conclude, for this reason, it must be that, it has to be th",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6347091908303223,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Trong một lập luận, các lý do được đưa ra để ủng hộ kết luận được gọi là gì?",
+    "expected_answer": "Các tiền đề (premises).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 158,
+    "evidence_quote": "The reasons offered are called premises.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:158:B:7",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 158,
+        "text": "Notice that the definition does not state that the reasons do support a conclusion (and rather states reasons are offered or meant to support a conclusion) because there are bad arguments in which reasons do not support a conclusion. Arguments have two components: the conclusion and the reasons offered to support it. The conclusion is what an arguer wants people to believe. The reasons offered are called premises.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6987423566343338,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:159:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 159,
+        "text": "the premises being advanced for a conclusion.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6798375583469782,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "assumption—rely on information or beliefs that require further justification",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6732121682600803,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Trong một lập luận, các lý do được đưa ra để ủng hộ kết luận được gọi là gì?",
+    "expected_answer": "Các tiền đề (premises).",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 158,
+    "evidence_quote": "The reasons offered are called premises.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:158:B:7",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 158,
+        "text": "Notice that the definition does not state that the reasons do support a conclusion (and rather states reasons are offered or meant to support a conclusion) because there are bad arguments in which reasons do not support a conclusion. Arguments have two components: the conclusion and the reasons offered to support it. The conclusion is what an arguer wants people to believe. The reasons offered are called premises.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6987423566343338,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:159:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 159,
+        "text": "the premises being advanced for a conclusion.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6798375583469782,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "assumption—rely on information or beliefs that require further justification",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6732121682600803,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Nếu một suy luận diễn dịch không hợp lệ nhưng các tiền đề đều đúng, kết luận có thể sai không?",
+    "expected_answer": "Có. Cấu trúc suy luận không bảo đảm kết luận đúng, nên kết luận vẫn có thể sai.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 162,
+    "evidence_quote": "In invalid inferences, their structure does not guarantee the truth of the conclusion—that is to say, even if the premises are true, the conclusion may be false.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:161:A:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 161,
+        "text": "emises are true, then the conclusion must be true. You can test a deductive inference’s validity by testing whether the premises lead to the conclusion. If it is impossible for the conclusion to be false when the premises are assumed to be true, then the argument is valid. Deductive reasoning can use a number of valid argument structures: Disjunctive Syllogism: 1. X or Y. 2. Not Y. 3. Therefore X. Modus Ponens: 1. If X, then Y. 2. X. 3. Therefore Y. Modus Tollens: 1. If X, then Y. 2. Not Y. 3. T",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5986734393421939,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:162:A:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 162,
+        "text": " is invalid. An instance of a deductive argument where the premises are all true 152 5 • Logic and Reasoning Access for free at openstax.org",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.595129309633178,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:168:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 168,
+        "text": "Extraordinary Claims Require Extraordinary Evidence Is it possible that our established beliefs (or scientific theories) could be wrong? Why give precedence to an explanation because it upholds our beliefs? Scientific thought would never have advanced if we deferred to conservative explanations all the time. In fact, the explanatory virtues are not laws but rules of thumb, none of which are supreme or necessary. Sometimes the correct explanation is more complicated, and sometimes the correct exp",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5907830852790875,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Nếu một suy luận diễn dịch không hợp lệ nhưng các tiền đề đều đúng, kết luận có thể sai không?",
+    "expected_answer": "Có. Cấu trúc suy luận không bảo đảm kết luận đúng, nên kết luận vẫn có thể sai.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 162,
+    "evidence_quote": "In invalid inferences, their structure does not guarantee the truth of the conclusion—that is to say, even if the premises are true, the conclusion may be false.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:162:B:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 162,
+        "text": "For deductive arguments, if you can come up with a scenario where the premises are true but the conclusion is false, you have proven that the argument is invalid. An instance of a deductive argument where the premises are all true 152 5 • Logic and Reasoning Access for free at openstax.org",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6219040922037105,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:168:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 168,
+        "text": "Extraordinary Claims Require Extraordinary Evidence Is it possible that our established beliefs (or scientific theories) could be wrong? Why give precedence to an explanation because it upholds our beliefs? Scientific thought would never have advanced if we deferred to conservative explanations all the time. In fact, the explanatory virtues are not laws but rules of thumb, none of which are supreme or necessary.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5887199712419652,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:162:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 162,
+        "text": "Your knowledge of sufficiency will help you understand why this inference is invalid. The truth of the antecedent (the sufficient condition) is only enough to know the truth of the consequent. But there may be more than one way for the consequent to be true, which means that the falsity of the sufficient condition does not guarantee that the consequent is false.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5799621498652686,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Nếu một suy luận diễn dịch không hợp lệ nhưng các tiền đề đều đúng, kết luận có thể sai không?",
+    "expected_answer": "Có. Cấu trúc suy luận không bảo đảm kết luận đúng, nên kết luận vẫn có thể sai.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 162,
+    "evidence_quote": "In invalid inferences, their structure does not guarantee the truth of the conclusion—that is to say, even if the premises are true, the conclusion may be false.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:162:B:8",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 162,
+        "text": "For deductive arguments, if you can come up with a scenario where the premises are true but the conclusion is false, you have proven that the argument is invalid. An instance of a deductive argument where the premises are all true 152 5 • Logic and Reasoning Access for free at openstax.org",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6219040922037105,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:168:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 168,
+        "text": "Extraordinary Claims Require Extraordinary Evidence Is it possible that our established beliefs (or scientific theories) could be wrong? Why give precedence to an explanation because it upholds our beliefs? Scientific thought would never have advanced if we deferred to conservative explanations all the time. In fact, the explanatory virtues are not laws but rules of thumb, none of which are supreme or necessary.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5887199712419652,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:162:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 162,
+        "text": "Your knowledge of sufficiency will help you understand why this inference is invalid. The truth of the antecedent (the sufficient condition) is only enough to know the truth of the consequent. But there may be more than one way for the consequent to be true, which means that the falsity of the sufficient condition does not guarantee that the consequent is false.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5799621498652686,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Trong ví dụ về những con mèo từng được vuốt ve, người lập luận dự đoán gì về con mèo đang xét?",
+    "expected_answer": "Con mèo này có lẽ cũng không chịu được việc bị kéo đuôi.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 165,
+    "evidence_quote": "Every cat I have ever petted doesn’t tolerate its tail being pulled. So this cat probably will not tolerate having its tail pulled.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:165:A:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 165,
+        "text": "is way be wrong? Yes—the neighbor could be sick, or the dog could be at the vet. But depending upon the regularity of the morning dog walks and on the number of instances (say the neighbor has walked the dog every morning for the past year), the inference could be strong in spite of the fact that it is possible for it to be wrong. Strong Inductive Inferences The strength of inductive inferences depends upon the reliability of premises given as evidence and their relation to the conclusions drawn",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5115685504324348,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:165:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 165,
+        "text": "Every cat I have ever petted doesn’t tolerate its tail being pulled. So this cat probably will not tolerate having its tail pulled. Notice that this reasoner has gone through a series of instances to make an inference about one additional instance. In doing so, the reasoner implicitly assumed a generalization along the way. The reasoner’s implicit generalization is that no cat likes its tail being pulled. They then use that generalization to determine that they shouldn’t pull the tail of the cat",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5032049744173737,
+        "rank": 2,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:166:A:7",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 166,
+        "text": "iding eye contact. Given the evidence, you conclude that the best explanation for the missing bread is that the dog ate it. Detectives and forensic investigators use abduction to come up with the best explanation for how a crime was committed and by whom. This form of reasoning is also indispensable to scientists who use observations (evidence) along with accepted hypotheses to create new hypotheses for testing. You may also recognize abduction as a form of reasoning used in medical diagnoses. A",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5024962721768772,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Trong ví dụ về những con mèo từng được vuốt ve, người lập luận dự đoán gì về con mèo đang xét?",
+    "expected_answer": "Con mèo này có lẽ cũng không chịu được việc bị kéo đuôi.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 165,
+    "evidence_quote": "Every cat I have ever petted doesn’t tolerate its tail being pulled. So this cat probably will not tolerate having its tail pulled.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:159:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 159,
+        "text": "the premises being advanced for a conclusion.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5540305504872357,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:165:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 165,
+        "text": "Yes—the neighbor could be sick, or the dog could be at the vet. But depending upon the regularity of the morning dog walks and on the number of instances (say the neighbor has walked the dog every morning for the past year), the inference could be strong in spite of the fact that it is possible for it to be wrong. Strong Inductive Inferences The strength of inductive inferences depends upon the reliability of premises given as evidence and their relation to the conclusions drawn.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5232573858534895,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:165:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 165,
+        "text": "Reasoning from the past to the future is similar to reasoning from specific instances to generalities. We have experience of events across time, we notice patterns concerning the occurrence of those events at particular times, and then we reason that the event will happen again in the future. For example: I see my neighbor walking her dog every morning. So my neighbor will probably walk her dog this morning. Could the person reasoning this way be wrong?",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5093762908135826,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Trong ví dụ về những con mèo từng được vuốt ve, người lập luận dự đoán gì về con mèo đang xét?",
+    "expected_answer": "Con mèo này có lẽ cũng không chịu được việc bị kéo đuôi.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 165,
+    "evidence_quote": "Every cat I have ever petted doesn’t tolerate its tail being pulled. So this cat probably will not tolerate having its tail pulled.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:159:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 159,
+        "text": "the premises being advanced for a conclusion.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5540305504872357,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:165:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 165,
+        "text": "Yes—the neighbor could be sick, or the dog could be at the vet. But depending upon the regularity of the morning dog walks and on the number of instances (say the neighbor has walked the dog every morning for the past year), the inference could be strong in spite of the fact that it is possible for it to be wrong. Strong Inductive Inferences The strength of inductive inferences depends upon the reliability of premises given as evidence and their relation to the conclusions drawn.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5232573858534895,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:165:B:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 165,
+        "text": "Reasoning from the past to the future is similar to reasoning from specific instances to generalities. We have experience of events across time, we notice patterns concerning the occurrence of those events at particular times, and then we reason that the event will happen again in the future. For example: I see my neighbor walking her dog every morning. So my neighbor will probably walk her dog this morning. Could the person reasoning this way be wrong?",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5093762908135826,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Trong ngụy biện tu quoque, người phản bác tìm cách làm suy yếu lập luận của đối phương bằng cách nào?",
+    "expected_answer": "Chỉ ra sự đạo đức giả có thật hoặc bị cho là có ở đối phương.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 170,
+    "evidence_quote": "When someone commits a tu quoque ad hominem fallacy, they attempt to undermine a person’s argument by pointing to real or perceived hypocrisy on the part of the person.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:170:A:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 170,
+        "text": "s a tu quoque ad hominem fallacy, they attempt to undermine a person’s argument by pointing to real or perceived hypocrisy on the part of the person. They assert or imply that their opponent, in the past or currently, has done or said things that are inconsistent with their current argument. Often tu quoque is used as a defensive maneuver. Take the example of a teenager whose father just caught her smoking cigarettes and reprimanded her. If she knows that her father smoked when he was her age, h",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6897632664585237,
+        "rank": 1,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:170:A:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 170,
+        "text": "t that a person engaged in protests in the past has no bearing on their arguments for an energy project. Furthermore, the arguer goes on to call the councilwoman a traitor and a liar and offers no evidence. Attaching negative labels to people is one way to manipulate an audience’s emotions. There are other types of ad hominem attacks, and the most successful is probably the one called tu quoque, which means “you too” in Latin. When someone commits a tu quoque ad hominem fallacy, they attempt to ",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6519939899446248,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:A:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "laim Fallacies of diversion—rely on attempts to distract the attention of the audience away from the argument at hand Strawman Utilizes a weaker version of the position being argued against in order to make the position easier to defeat Red Herring Ignores the opponent’s position and simply changes the subject TABLE 5.3 Types of Informal Fallacies 5.5 • Informal Fallacies 165",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5412275791169597,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Trong ngụy biện tu quoque, người phản bác tìm cách làm suy yếu lập luận của đối phương bằng cách nào?",
+    "expected_answer": "Chỉ ra sự đạo đức giả có thật hoặc bị cho là có ở đối phương.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 170,
+    "evidence_quote": "When someone commits a tu quoque ad hominem fallacy, they attempt to undermine a person’s argument by pointing to real or perceived hypocrisy on the part of the person.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:170:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 170,
+        "text": "When someone commits a tu quoque ad hominem fallacy, they attempt to undermine a person’s argument by pointing to real or perceived hypocrisy on the part of the person. They assert or imply that their opponent, in the past or currently, has done or said things that are inconsistent with their current argument. Often tu quoque is used as a defensive maneuver. Take the example of a teenager whose father just caught her smoking cigarettes and reprimanded her.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6874822005609542,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:170:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 170,
+        "text": "The fact that a person engaged in protests in the past has no bearing on their arguments for an energy project. Furthermore, the arguer goes on to call the councilwoman a traitor and a liar and offers no evidence. Attaching negative labels to people is one way to manipulate an audience’s emotions. There are other types of ad hominem attacks, and the most successful is probably the one called tu quoque, which means “you too” in Latin.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6342208705475743,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:174:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 174,
+        "text": "The repackaged argument is much easier to defeat than the senator’s actual argument since few people are in favor of not allowing any immigration into the country. Red Herring A red herring fallacy is like a strawman, except the arguer completely ignores their opponent’s position and simply changes the subject. The arguer diverts the attention of the audience to a new subject.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.551541679756105,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Trong ngụy biện tu quoque, người phản bác tìm cách làm suy yếu lập luận của đối phương bằng cách nào?",
+    "expected_answer": "Chỉ ra sự đạo đức giả có thật hoặc bị cho là có ở đối phương.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 170,
+    "evidence_quote": "When someone commits a tu quoque ad hominem fallacy, they attempt to undermine a person’s argument by pointing to real or perceived hypocrisy on the part of the person.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:170:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 170,
+        "text": "When someone commits a tu quoque ad hominem fallacy, they attempt to undermine a person’s argument by pointing to real or perceived hypocrisy on the part of the person. They assert or imply that their opponent, in the past or currently, has done or said things that are inconsistent with their current argument. Often tu quoque is used as a defensive maneuver. Take the example of a teenager whose father just caught her smoking cigarettes and reprimanded her.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6874822005609542,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:170:B:2",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 170,
+        "text": "The fact that a person engaged in protests in the past has no bearing on their arguments for an energy project. Furthermore, the arguer goes on to call the councilwoman a traitor and a liar and offers no evidence. Attaching negative labels to people is one way to manipulate an audience’s emotions. There are other types of ad hominem attacks, and the most successful is probably the one called tu quoque, which means “you too” in Latin.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6342208705475743,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:174:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 174,
+        "text": "The repackaged argument is much easier to defeat than the senator’s actual argument since few people are in favor of not allowing any immigration into the country. Red Herring A red herring fallacy is like a strawman, except the arguer completely ignores their opponent’s position and simply changes the subject. The arguer diverts the attention of the audience to a new subject.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.551541679756105,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Vì sao một kết luận có thể bị xem là khái quát hóa vội vàng?",
+    "expected_answer": "Vì người lập luận đưa ra kết luận dựa trên quá ít bằng chứng.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 171,
+    "evidence_quote": "A hasty generalization is a fallacy of weak induction in which a person draws a conclusion using too little evidence to support the conclusion.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:171:A:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 171,
+        "text": "generalization in the wrong way. Hasty Generalization A hasty generalization is a fallacy of weak induction in which a person draws a conclusion using too little evidence to support the conclusion. A hasty generalization was made in the red-winged blackbird case above. Here is another example: Don’t eat at the restaurant. It’s bad. I had lunch there once, and it was awful. Another time I had dinner, and the portions were too small. This person draws the conclusion that the restaurant is bad from",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.661061007100739,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:171:A:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 171,
+        "text": "sample has some things in common with a hasty generalization. Consider the following: Don’t eat dinner at that restaurant. It’s bad. My book club has met there once a week for breakfast for the past year, and they overcook their eggs. This seems much better than the restaurant example offered above. If the book club has gone to the restaurant once per week for a year, the arguer has more than 50 instances as data. However, notice that the arguer’s evidence concerns breakfast, not dinner, and foc",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5871834612817312,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:171:A:4",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 171,
+        "text": "ilar, so a study drawn from observing just a few electrons may be reasonable. Humans (particularly their political beliefs and behaviors) are not the same, so a much larger sample size is needed to determine political behavior. The fallacy of hasty generalization highlights the empirical nature of induction—we need a basic understanding of the world to know exactly how much evidence is needed to support many of our claims. Biased Sample A biased sample has some things in common with a hasty gene",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5780176082818027,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Vì sao một kết luận có thể bị xem là khái quát hóa vội vàng?",
+    "expected_answer": "Vì người lập luận đưa ra kết luận dựa trên quá ít bằng chứng.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 171,
+    "evidence_quote": "A hasty generalization is a fallacy of weak induction in which a person draws a conclusion using too little evidence to support the conclusion.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:171:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 171,
+        "text": "generalization in the wrong way. Hasty Generalization A hasty generalization is a fallacy of weak induction in which a person draws a conclusion using too little evidence to support the conclusion. A hasty generalization was made in the red-winged blackbird case above. Here is another example: Don’t eat at the restaurant. It’s bad. I had lunch there once, and it was awful. Another time I had dinner, and the portions were too small.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6625345945358465,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "Hasty generalization Draws a conclusion using too little evidence to support the conclusion Biased sample Draws a conclusion using evidence that is biased in some way Appeal to ignorance Relies on the lack of knowledge or evidence for a thing (our ignorance of it) to draw a definite conclusion about that thing False cause attribution A causal relation is assumed to exist between two events or things that are not causally connected; “correlation does not equal causation” Fallacies of unwarranted",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5800143194147439,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:171:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 171,
+        "text": "Biased Sample A biased sample has some things in common with a hasty generalization. Consider the following: Don’t eat dinner at that restaurant. It’s bad. My book club has met there once a week for breakfast for the past year, and they overcook their eggs. This seems much better than the restaurant example offered above. If the book club has gone to the restaurant once per week for a year, the arguer has more than 50 instances as data.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5730584357696061,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Vì sao một kết luận có thể bị xem là khái quát hóa vội vàng?",
+    "expected_answer": "Vì người lập luận đưa ra kết luận dựa trên quá ít bằng chứng.",
+    "gold_source_id": "openstax-introduction-to-philosophy",
+    "gold_page": 171,
+    "evidence_quote": "A hasty generalization is a fallacy of weak induction in which a person draws a conclusion using too little evidence to support the conclusion.",
+    "requested_filter": null,
+    "hits": [
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:171:B:1",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 171,
+        "text": "generalization in the wrong way. Hasty Generalization A hasty generalization is a fallacy of weak induction in which a person draws a conclusion using too little evidence to support the conclusion. A hasty generalization was made in the red-winged blackbird case above. Here is another example: Don’t eat at the restaurant. It’s bad. I had lunch there once, and it was awful. Another time I had dinner, and the portions were too small.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.6625345945358465,
+        "rank": 1,
+        "evidence_match": true
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:175:B:3",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 175,
+        "text": "Hasty generalization Draws a conclusion using too little evidence to support the conclusion Biased sample Draws a conclusion using evidence that is biased in some way Appeal to ignorance Relies on the lack of knowledge or evidence for a thing (our ignorance of it) to draw a definite conclusion about that thing False cause attribution A causal relation is assumed to exist between two events or things that are not causally connected; “correlation does not equal causation” Fallacies of unwarranted",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5800143194147439,
+        "rank": 2,
+        "evidence_match": false
+      },
+      {
+        "chunk_id": "openstax-introduction-to-philosophy:171:B:5",
+        "document_id": "openstax-introduction-to-philosophy",
+        "source": "https://openstax.org/details/books/introduction-philosophy",
+        "page": 171,
+        "text": "Biased Sample A biased sample has some things in common with a hasty generalization. Consider the following: Don’t eat dinner at that restaurant. It’s bad. My book club has met there once a week for breakfast for the past year, and they overcook their eggs. This seems much better than the restaurant example offered above. If the book club has gone to the restaurant once per week for a year, the arguer has more than 50 instances as data.",
+        "metadata": {
+          "chapter": "logic_and_reasoning",
+          "language": "en"
+        },
+        "score": 0.5730584357696061,
+        "rank": 3,
+        "evidence_match": false
+      }
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant_top3": null,
+    "strategy": "C",
+    "applied_filter": null
+  }
+]

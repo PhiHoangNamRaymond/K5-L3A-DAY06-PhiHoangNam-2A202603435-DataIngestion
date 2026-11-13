@@ -1,0 +1,123 @@
+{
+  "split": "test",
+  "run_started_utc": "2026-11-13T16:30:17+00:00",
+  "model": "bge-m3:latest",
+  "dimensions": 1024,
+  "embedding": {
+    "provider": "Ollama (local)",
+    "model": "bge-m3:latest",
+    "ollama_version": "0.40.16",
+    "model_digest": "7907646426070047a77226ac3e684fbbe8410524f7b4a74d02837e43f2146bab",
+    "parameter_size": "566.70M",
+    "quantization": "F16"
+  },
+  "vector_store": {
+    "postgresql": "16.16 (Debian 16.16-1.pgdg12+1)",
+    "pgvector": "0.8.7",
+    "psycopg": "3.3.8",
+    "search": "exact (sequential scan, no ANN index), cosine distance <=>"
+  },
+  "environment": {
+    "python": "3.15.0",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "pypdf": "6.21.4"
+  },
+  "corpus_pages": 56,
+  "cost_usd": 0,
+  "strategies": {
+    "A": {
+      "chunker": "fixed_size",
+      "chunk_size": 500,
+      "overlap": 50,
+      "filter": null
+    },
+    "B": {
+      "chunker": "by_paragraph",
+      "max_chunk_size": 500,
+      "filter": null
+    },
+    "C": {
+      "reuses_chunks_and_vectors_from": "B",
+      "filter": "chapter (only when the question supplies one)"
+    }
+  },
+  "ingest": {
+    "A": {
+      "chunk_count": 432,
+      "min_chunk_chars": 54,
+      "p25_chunk_chars": 500,
+      "median_chunk_chars": 500,
+      "mean_chunk_chars": 469.63,
+      "p75_chunk_chars": 500,
+      "max_chunk_chars": 500,
+      "chunks_under_100_chars": 4,
+      "total_chunk_chars": 202881,
+      "ingest_seconds": 9.194,
+      "reload_check": {
+        "before": {
+          "rows": 432,
+          "distinct_chunk_ids": 432
+        },
+        "after": {
+          "rows": 432,
+          "distinct_chunk_ids": 432
+        }
+      }
+    },
+    "B": {
+      "chunk_count": 454,
+      "min_chunk_chars": 29,
+      "p25_chunk_chars": 377,
+      "median_chunk_chars": 432,
+      "mean_chunk_chars": 404.59,
+      "p75_chunk_chars": 464,
+      "max_chunk_chars": 500,
+      "chunks_under_100_chars": 7,
+      "total_chunk_chars": 183683,
+      "ingest_seconds": 9.403,
+      "reload_check": {
+        "before": {
+          "rows": 454,
+          "distinct_chunk_ids": 454
+        },
+        "after": {
+          "rows": 454,
+          "distinct_chunk_ids": 454
+        }
+      }
+    }
+  },
+  "query_seconds_all_strategies": 0.523,
+  "metrics": {
+    "A": {
+      "test": {
+        "questions": 5,
+        "hit_at_1": 3,
+        "evidence_hit_at_3": 4,
+        "page_hit_at_3": 5,
+        "filter_questions": 1,
+        "filter_compliant_top3": 0
+      }
+    },
+    "B": {
+      "test": {
+        "questions": 5,
+        "hit_at_1": 3,
+        "evidence_hit_at_3": 3,
+        "page_hit_at_3": 4,
+        "filter_questions": 1,
+        "filter_compliant_top3": 1
+      }
+    },
+    "C": {
+      "test": {
+        "questions": 5,
+        "hit_at_1": 3,
+        "evidence_hit_at_3": 3,
+        "page_hit_at_3": 4,
+        "filter_questions": 1,
+        "filter_compliant_top3": 1
+      }
+    }
+  }
+}

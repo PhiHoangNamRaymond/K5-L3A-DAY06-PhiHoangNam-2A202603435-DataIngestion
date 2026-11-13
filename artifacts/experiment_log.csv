@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,document_id;source;page;chapter;language,no,bge-m3:latest (Ollama 0.40.16; 1024 chiều; cosine; pgvector 0.8.7),Overlap 50 ký tự có thể giữ bằng chứng ở ranh giới chunk,6/15,11/15,3/5,4/5,"Được chọn trên dev (ưu tiên Evidence Hit@3, sau đó Hit@1) trước khi chạy test. 432 chunk; ingest ~9.2 giây; chi phí 0 USD. Coherence 1.0/2 trên 10 mẫu A; các mẫu có chỗ cắt giữa từ hoặc giữa ý."
+B,by_paragraph (đoạn rồi câu),500 (tối đa),0,document_id;source;page;chapter;language,no,bge-m3:latest (Ollama 0.40.16; 1024 chiều; cosine; pgvector 0.8.7),Chia theo đoạn/câu giữ ý trọn vẹn hơn,6/15,10/15,3/5,3/5,"Chỉ đổi cách chunk so với A. 454 chunk; ingest ~9.2 giây; chi phí 0 USD. Coherence 1.7/2 nhưng sinh mảnh rất ngắn (min 29 ký tự) do ngắt trang PDF."
+C,by_paragraph (dùng lại chunk và vector của B),500 (tối đa),0,document_id;source;page;chapter;language,chapter khi câu hỏi có filter (3 câu: q01; q06; q18),bge-m3:latest (Ollama 0.40.16; 1024 chiều; cosine; pgvector 0.8.7),Lọc theo chương loại kết quả ngoài phạm vi,6/15,10/15,3/5,3/5,"Chỉ thêm filter so với B. Top-3 giống hệt B ở cả 3 câu có filter vì B vốn đã trả kết quả đúng chương (tuân thủ filter: B 3/3; C 3/3; A 2/3)."

@@ -1,5 +1,40 @@
 # Day 06 · Data Ingestion Engineering
 
+> ## Bài làm — Phí Hoàng Nam (2A202603435)
+>
+> Corpus gồm 56 trang của OpenStax *Introduction to Philosophy* (CC BY-NC-SA 4.0). Embedding dùng `bge-m3` chạy local qua Ollama (1024 chiều). Vector store là PostgreSQL 16 + pgvector 0.8.7, tìm kiếm cosine chính xác (exact). Có ba cấu hình A/B/C và benchmark 20 câu (15 dev / 5 test). Báo cáo: [report/individual/2A202603435_PhiHoangNam.md](report/individual/2A202603435_PhiHoangNam.md).
+>
+> **Tái lập** (Windows PowerShell). Cần Docker, Python 3.11+ và [Ollama](https://ollama.com). Kết quả đã lưu được chạy với Python 3.15.0.
+>
+> ```powershell
+> ollama pull bge-m3
+> cd starter
+> python -m venv .venv
+> .\.venv\Scripts\Activate.ps1
+> python -m pip install -r requirements.txt
+> if (-not (Test-Path .env)) { Copy-Item .env.example .env }
+> docker compose -p day6_student_starter up -d --wait
+> python scripts/check_setup.py
+> # Tải PDF từ https://openstax.org/details/books/introduction-philosophy về starter/data/Introduction_to_Philosophy-WEB.pdf
+> python -m scripts.verify_benchmark      # kiểm chứng evidence, filter, split
+> python -m src.run --split dev           # nạp A/B, đánh giá A/B/C trên dev
+> python -m src.run --split test          # chạy test sau khi đã chốt cấu hình
+> python -m scripts.export_audit          # xuất mẫu audit thủ công
+> ```
+>
+> | Thành phần | Vị trí |
+> |---|---|
+> | Code pipeline | [starter/src/](starter/src/) |
+> | Manifest dữ liệu (nguồn, quyền, trang, SHA-256) | [data/manifest.json](data/manifest.json) |
+> | Benchmark và gold | [benchmark/questions.json](benchmark/questions.json) |
+> | Cấu hình và giả thuyết | [artifacts/experiment_log.csv](artifacts/experiment_log.csv) |
+> | Chỉ số, trace top-3, log chạy | [starter/results/](starter/results/) (`summary_*.json`, `traces_*.json`, `run_log_*.txt`) |
+> | Nhãn thủ công | [starter/results/manual_labels/](starter/results/manual_labels/) |
+>
+> Chi phí 0 USD vì không gọi API trả phí. Một lần chạy mất khoảng 25 giây trên máy cá nhân.
+
+---
+
 **Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**
 
 Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, rồi đo xem cách chuẩn bị dữ liệu nào hiệu quả nhất.
@@ -10,7 +45,7 @@ Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, r�
 
 ## Bắt đầu nhanh
 
-Dùng [starter PostgreSQL + pgvector](starter/README.md) để dựng database và hoàn thiện các hàm TODO, hoặc tự chọn vector store tương đương. Starter chỉ là khung: **bạn tự hiện thực pipeline và benchmark**.
+Chạy theo mục **Tái lập** ở đầu README. Xem [hướng dẫn trong starter](starter/README.md) để biết cấu trúc pipeline và lệnh chạy từ thư mục `starter/`.
 
 ## 1. Xây pipeline
 
